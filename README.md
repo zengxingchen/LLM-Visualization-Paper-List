@@ -21,3 +21,14 @@ Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
 **ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding** \
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo \
 [arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
+
+
+## 2. Generic Multimodal Large Language Model
+**EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders** \
+Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi,
+Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu \
+[arXiv, 28 Aug 2024](https://arxiv.org/abs/2408.15998) • [code](https://github.com/NVlabs/EAGLE)
+
+**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs** \
+Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie \
+[arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [code](https://github.com/cambrian-mllm/cambrian)
