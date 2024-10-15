@@ -78,7 +78,7 @@ Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar
 
 **Chartllama: A multimodal llm for chart understanding and generation**  
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
-[arXiv](https://arxiv.org/pdf/2311.16483) • [homepage](https://tingxueronghua.github.io/ChartLlama/)
+[arXiv, 27 Nov 2023]](https://arxiv.org/pdf/2311.16483) • [homepage](https://tingxueronghua.github.io/ChartLlama/)
 
 --- Pre-LLM --- 
 
