@@ -26,6 +26,14 @@ Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo \
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
 [VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
+--- Pre-LLM --- \
+**UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning** \
+Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty \
+[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.906.pdf) • [code](https://github.com/vis-nlp/UniChart)
+
+**ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning** \
+Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque \ 
+[Findings of ACL 2022](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/vis-nlp/chartqa)
 
 ## 2. Generic Multimodal Large Language Model
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders** \
