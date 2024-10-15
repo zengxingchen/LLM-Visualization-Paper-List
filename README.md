@@ -43,6 +43,7 @@ Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Lu
 **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning**  
 Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu
 [NAACL 2024](https://aclanthology.org/2024.naacl-long.70.pdf) • [code](https://github.com/FuxiaoLiu/MMC)
+
 **Chartllama: A multimodal llm for chart understanding and generation**  
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
 [arXiv](https://arxiv.org/pdf/2311.16483) • [homepage](https://tingxueronghua.github.io/ChartLlama/)
