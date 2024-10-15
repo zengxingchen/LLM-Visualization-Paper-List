@@ -8,6 +8,7 @@
     - [2.1 Benchmark](#21-benchmark)
   - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
+  - [5. Visualization Design](#5-visualization-design) 
   - [6. Generic Multimodal Large Language Model](#6-generic-multimodal-large-language-model)
   - [7. Related Survey Papers](#7-related-survey-papers)
 
