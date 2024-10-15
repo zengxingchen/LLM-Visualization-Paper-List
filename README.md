@@ -49,7 +49,7 @@ Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty
 Fangyu Liu and Julian Martin Eisenschlos and Francesco Piccinno and Syrine Krichene and Chenxi Pang and Kenton Lee and Mandar Joshi and Wenhu Chen and Nigel Collier and Yasemin Altun  
 [Findings of ACL2023](https://aclanthology.org/2023.findings-acl.660.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
 
-**MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering**
+**MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering**  
 Fangyu Liu and Francesco Piccinno and Syrine Krichene and Chenxi Pang and Kenton Lee and Mandar Joshi and Yasemin Altun and Nigel Collier and Julian Martin Eisenschlos  
 [Findings of ACL2023](https://aclanthology.org/2023.acl-long.714.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
 ### 1.1 Benchmark
