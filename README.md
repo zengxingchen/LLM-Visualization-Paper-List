@@ -12,7 +12,7 @@
 
 ## 0. Why am I curating this repository?
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
-
+- Feel free to open an issue or a pull request to add a new paper you appreciate.
 
 ## 1. Chart Captioning
 
