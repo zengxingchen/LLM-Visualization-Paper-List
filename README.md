@@ -52,8 +52,8 @@ Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho,
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
 [arXiv](https://arxiv.org/pdf/2311.16483) • [homepage](https://tingxueronghua.github.io/ChartLlama/)
 
-
 --- Pre-LLM --- 
+
 **UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning**  
 Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty  
 [EMNLP 2023](https://aclanthology.org/2023.emnlp-main.906.pdf) • [code](https://github.com/vis-nlp/UniChart)
@@ -65,6 +65,7 @@ Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chen
 **MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering**  
 Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Martin Eisenschlos  
 [ACL2023](https://aclanthology.org/2023.acl-long.714.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
+
 ### 1.1 Benchmark
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen \
@@ -102,8 +103,9 @@ Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [code](https://github.com/microsoft/VisEval)
 
 **LLM4Vis: Explainable Visualization Recommendation using ChatGPT**  
-Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang
+Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang  
 [EMNLP 2023 Industry](https://aclanthology.org/2023.emnlp-industry.64.pdf)  • [code](https://github.com/demoleiwang/LLM4Vis)  
+
 --- Pre-LLM ---  
 
 **Natural Language to Visualization by Neural Machine Translation**  
