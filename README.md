@@ -12,7 +12,7 @@ Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Ji
 Benny J. Tang, Angie Boggust, Arvind Satyanarayan \
 [ACL 2023 Outstanding paper](https://aclanthology.org/2023.acl-long.401.pdf) • [Code](https://github.com/mitvis/vistext)
 
-## 1. Chart Question Answeting
+## 1. Chart Question Answering
 
 **Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning** \
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
