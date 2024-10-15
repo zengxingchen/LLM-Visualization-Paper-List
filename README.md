@@ -40,6 +40,11 @@ Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo \
 [Findings of ACL 2024](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/OpenGVLab/ChartAst)
 
+**Chartllama: A multimodal llm for chart understanding and generation**  
+Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
+[arXiv](https://arxiv.org/pdf/2311.16483) • [homepage](https://tingxueronghua.github.io/ChartLlama/)
+
+
 --- Pre-LLM --- \
 **UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning**  
 Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty  
