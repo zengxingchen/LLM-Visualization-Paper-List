@@ -8,8 +8,8 @@
     - [2.1 Benchmark](#21-benchmark)
   - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
-  - [5. Generic Multimodal Large Language Model](#5-generic-multimodal-large-language-model)
-  - [6. Related Survey Papers](#6-related-survey-papers)
+  - [6. Generic Multimodal Large Language Model](#6-generic-multimodal-large-language-model)
+  - [7. Related Survey Papers](#7-related-survey-papers)
 
 ## 0. Why am I curating this repository?
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
@@ -152,7 +152,12 @@ Yuyu Luo, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin
 Yuyu Luo, Jiawei Tang, Guoliang Li  
 [Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [Code](https://github.com/TsinghuaDatabaseGroup/nvBench)
 
-## 5. Generic Multimodal Large Language Model
+## 5. Visualization Design
+**NL2Color: Refining Color Palettes for Charts with Natural Language**  
+Chuhan Shi, Weiwei Cui, Chengzhong Liu, Chengbo Zheng, Haidong Zhang, Qiong Luo, and Xiaojuan Ma  
+[VIS 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292693)
+
+## 6. Generic Multimodal Large Language Model
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
@@ -164,7 +169,7 @@ Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An
 Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie  
 [arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/cambrian-mllm/cambrian)
 
-## 6. Related Survey Papers
+## 7. Related Survey Papers
 **Generative AI for visualization: State of the art and future directions**  
 Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng  
 [Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000160)
