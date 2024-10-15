@@ -15,7 +15,7 @@ Benny J. Tang, Angie Boggust, Arvind Satyanarayan \
 
 --- Pre-LLM --- \
 **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization** \
-Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty 
+Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty  
 [ACL 2022](https://aclanthology.org/2022.acl-long.277.pdf) • [Code](https://github.com/vis-nlp/Chart-to-text)
 
 
