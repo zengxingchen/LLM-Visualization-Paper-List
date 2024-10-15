@@ -44,6 +44,13 @@ Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
 [arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
 
+**TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**  
+Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, Fei Huang  
+[arXiv 25 Apr 2024](https://arxiv.org/pdf/2404.16635) • [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
+
+**OneChart: Purify the Chart Structural Extraction via One Auxiliary Token**  
+Jinyue Chen*, Lingyu Kong*, Haoran Wei, Chenglong Liu, Zheng Ge, Liang Zhao, Jianjian Sun, Chunrui Han, Xiangyu Zhang  
+[ACM MM2024 Oral](https://arxiv.org/pdf/2404.09987) • [Homepage](https://onechartt.github.io/)
 
 **Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**  
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
@@ -64,6 +71,10 @@ Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Lu
 **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning**  
 Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu  
 [NAACL 2024](https://aclanthology.org/2024.naacl-long.70.pdf) • [code](https://github.com/FuxiaoLiu/MMC)
+
+**Synthesize Step-by-Step: Tools Templates and LLMs as Data Generators for Reasoning-Based Chart VQA**  
+Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar  
+[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Synthesize_Step-by-Step_Tools_Templates_and_LLMs_as_Data_Generators_for_CVPR_2024_paper.pdf)
 
 **Chartllama: A multimodal llm for chart understanding and generation**  
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
