@@ -14,13 +14,17 @@ Benny J. Tang, Angie Boggust, Arvind Satyanarayan \
 
 ## 1. Chart Question Answering
 
-**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning** \
-Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
-[VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
+**SynChart: Synthesizing Charts from Language Models** \
+Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li \
+[arXiv](https://arxiv.org/abs/2409.16517)
 
 **ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding** \
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo \
 [arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
+
+**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning** \
+Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
+[VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
 
 ## 2. Generic Multimodal Large Language Model
