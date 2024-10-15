@@ -13,6 +13,7 @@ Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Ji
 Benny J. Tang, Angie Boggust, Arvind Satyanarayan \
 [ACL 2023 Outstanding paper](https://aclanthology.org/2023.acl-long.401.pdf) • [Code](https://github.com/mitvis/vistext)
 
+--- Pre-LLM --- \
 **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization** \
 Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty 
 [ACL 2022](https://aclanthology.org/2022.acl-long.277.pdf) • [Code](https://github.com/vis-nlp/Chart-to-text)
@@ -59,6 +60,15 @@ Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque \
 [Findings of ACL 2022](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/vis-nlp/chartqa)
 
 
+## 2. Chart Reverse Engineering
+**ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation** \
+Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang \ 
+[arXiv](arXiv preprint arXiv:2406.09961) • [homepage](https://chartmimic.github.io/)
+
+--- Pre-LLM --- \
+**Reverse‐engineering visualizations: Recovering visual encodings from chart images** \
+Jorge Poco1 and Jeffrey Heer \
+[EuroVis 2017](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13193)
 
 
 
