@@ -94,6 +94,9 @@ Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chen
 Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Martin Eisenschlos  
 [ACL 2023](https://aclanthology.org/2023.acl-long.714.pdf) • [Code](https://github.com/google-research/google-research/tree/master/deplot)
 
+**Dvqa: Understanding data visualizations via question answering**  
+Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan  
+[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf) • [Code](https://github.com/kushalkafle/DVQA_dataset)
 ### 2.1 Benchmark
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
