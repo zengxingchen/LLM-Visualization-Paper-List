@@ -128,6 +128,9 @@ Yuyu Luo, Jiawei Tang, Guoliang Li
 [Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [code](https://github.com/TsinghuaDatabaseGroup/nvBench)
 
 ## 5. Generic Multimodal Large Language Model
+**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
+Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
+[arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**  
 Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi, Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu  
 [arXiv, 28 Aug 2024](https://arxiv.org/abs/2408.15998) • [code](https://github.com/NVlabs/EAGLE)
