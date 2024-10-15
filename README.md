@@ -8,7 +8,8 @@
     - [2.1 Benchmark](#21-benchmark)
   - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
-  - [5. Visualization Design](#5-visualization-design) 
+  - [5. Visualization Design](#5-visualization-design)
+    - [5.0 Color](#50-color)
   - [6. Generic Multimodal Large Language Model](#6-generic-multimodal-large-language-model)
   - [7. Related Survey Papers](#7-related-survey-papers)
 
@@ -154,9 +155,13 @@ Yuyu Luo, Jiawei Tang, Guoliang Li
 [Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [Code](https://github.com/TsinghuaDatabaseGroup/nvBench)
 
 ## 5. Visualization Design
+### 5.0 Color
 **NL2Color: Refining Color Palettes for Charts with Natural Language**  
 Chuhan Shi, Weiwei Cui, Chengzhong Liu, Chengbo Zheng, Haidong Zhang, Qiong Luo, and Xiaojuan Ma  
 [VIS 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292693)
+
+**Large Language Models estimate fine-grained human color-concept associations**  
+[arXiv, 4 May 2024](https://arxiv.org/abs/2406.17781)
 
 ## 6. Generic Multimodal Large Language Model
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
