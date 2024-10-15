@@ -101,6 +101,9 @@ Jorge Poco and Jeffrey Heer \
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [code](https://github.com/microsoft/VisEval)
 
+**LLM4Vis: Explainable Visualization Recommendation using ChatGPT**  
+Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang
+[EMNLP 2023 Industry](https://aclanthology.org/2023.emnlp-industry.64.pdf)  • [code](https://github.com/demoleiwang/LLM4Vis)  
 --- Pre-LLM ---  
 
 **Natural Language to Visualization by Neural Machine Translation**  
