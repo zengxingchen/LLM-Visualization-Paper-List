@@ -20,6 +20,8 @@ Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, En
 
 ## 1. Chart Question Answering
 
+
+### 1.0 Data, Model
 **SynChart: Synthesizing Charts from Language Models** \
 Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li \
 [arXiv](https://arxiv.org/abs/2409.16517)
@@ -28,30 +30,37 @@ Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li \
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo  \
 [arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
 
-**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**
-Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen \
-[NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
 
 **Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning** \
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
 [VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
-**ChartAssistant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning** \ 
+**ChartAssistant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning** 
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo \
 [Findings of ACL 2024](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/OpenGVLab/ChartAst)
-
-**ChartBench: A Benchmark for Complex Visual Reasoning in Charts** \
-Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo \ 
-[arXiv 26 Dec 2023](https://arxiv.org/pdf/2312.15915) • [homepage](https://chartbench.github.io/)
 
 --- Pre-LLM --- \
 **UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning** \
 Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty \
 [EMNLP 2023](https://aclanthology.org/2023.emnlp-main.906.pdf) • [code](https://github.com/vis-nlp/UniChart)
 
+### 1.1 Benchmark
+**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** \
+ Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen \
+[NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
+
+**ChartBench: A Benchmark for Complex Visual Reasoning in Charts**   
+Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo  
+ [arXiv 26 Dec 2023](https://arxiv.org/pdf/2312.15915) • [homepage](https://chartbench.github.io/)
+
+--- Pre-LLM --- \
 **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning** \
 Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque \
 [Findings of ACL 2022](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/vis-nlp/chartqa)
+
+
+
+
 
 ## 2. Generic Multimodal Large Language Model
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders** \
