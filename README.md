@@ -41,12 +41,12 @@ Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Lu
 [Findings of ACL 2024](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/OpenGVLab/ChartAst)
 
 --- Pre-LLM --- \
-**UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning** \
-Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty \
+**UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning**  
+Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty  
 [EMNLP 2023](https://aclanthology.org/2023.emnlp-main.906.pdf) • [code](https://github.com/vis-nlp/UniChart)
 
 ### 1.1 Benchmark
-**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** \
+**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen \
 [NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
 
@@ -62,20 +62,19 @@ Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque \
 
 ## 2. Chart Reverse Engineering
 **ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation** \
-Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang \ 
-[arXiv](arXiv preprint arXiv:2406.09961) • [homepage](https://chartmimic.github.io/)
+Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang  
+[arXiv](https://arxiv.org/pdf/2406.09961) • [homepage](https://chartmimic.github.io/)
 
 --- Pre-LLM --- \
 **Reverse‐engineering visualizations: Recovering visual encodings from chart images** \
-Jorge Poco1 and Jeffrey Heer \
+Jorge Poco and Jeffrey Heer \
 [EuroVis 2017](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13193)
 
 
 
 ## 2. Generic Multimodal Large Language Model
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders** \
-Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi,
-Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu \
+Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi, Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu \
 [arXiv, 28 Aug 2024](https://arxiv.org/abs/2408.15998) • [code](https://github.com/NVlabs/EAGLE)
 
 **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs** \
