@@ -41,7 +41,7 @@ Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Lu
 [Findings of ACL 2024](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/OpenGVLab/ChartAst)
 
 **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning**  
-Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu
+Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu  
 [NAACL 2024](https://aclanthology.org/2024.naacl-long.70.pdf) • [code](https://github.com/FuxiaoLiu/MMC)
 
 **Chartllama: A multimodal llm for chart understanding and generation**  
