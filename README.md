@@ -1,6 +1,6 @@
 # LLM-Visualization-Paper-List
 Why am I curating this repository?
-- I've found that the chart-LLM-related repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
+- I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
 
 
 ## 0. Chart Captioning
