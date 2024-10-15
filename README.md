@@ -13,6 +13,9 @@ Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Ji
 Benny J. Tang, Angie Boggust, Arvind Satyanarayan \
 [ACL 2023 Outstanding paper](https://aclanthology.org/2023.acl-long.401.pdf) • [Code](https://github.com/mitvis/vistext)
 
+**Chart-to-Text: Generating Natural Language Explanations for Charts by Adapting the Transformer Model** \
+Li Gong, Josep Crego, Jean Senellart \
+[Proceedings of the 3rd Workshop on Neural Generation and Translation](https://aclanthology.org/D19-5615.pdf) • [Code](https://github.com/JasonObeid/Chart2Text)
 ## 1. Chart Question Answering
 
 **SynChart: Synthesizing Charts from Language Models** \
