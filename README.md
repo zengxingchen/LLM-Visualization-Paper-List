@@ -86,7 +86,12 @@ Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Ji
 [arXiv](https://arxiv.org/pdf/2406.09961) • [homepage](https://chartmimic.github.io/)
 
 --- Pre-LLM --- \
-**Reverse‐engineering visualizations: Recovering visual encodings from chart images** \
+
+**Deep colormap extraction from visualizations**  
+Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, Haotian Li, Chi-Wing Fu, Huamin Qu  
+[TVCG 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9395231)
+
+**Reverse‐engineering visualizations: Recovering visual encodings from chart images**  
 Jorge Poco and Jeffrey Heer \
 [EuroVis 2017](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13193)
 
