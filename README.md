@@ -24,8 +24,8 @@ Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, En
 Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li \
 [arXiv](https://arxiv.org/abs/2409.16517)
 
-**ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding** \
-Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo \
+**ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding**  \
+Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo  \
 [arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
 
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**
@@ -40,8 +40,8 @@ Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo \
 [Findings of ACL 2024](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/OpenGVLab/ChartAst)
 
-**ChartBench: A Benchmark for Complex Visual Reasoning in Charts**
-Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo
+**ChartBench: A Benchmark for Complex Visual Reasoning in Charts** \
+Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo \ 
 [arXiv 26 Dec 2023](https://arxiv.org/pdf/2312.15915) • [homepage](https://chartbench.github.io/)
 
 --- Pre-LLM --- \
