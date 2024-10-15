@@ -87,8 +87,12 @@ Jorge Poco and Jeffrey Heer \
 [EuroVis 2017](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13193)
 
 
+## 3. Natural Language to Visualization
+**VisEval: A benchmark for data visualization in the era of large language models**  
+Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [code](https://github.com/microsoft/VisEval)
 
-## 2. Generic Multimodal Large Language Model
+## 4. Generic Multimodal Large Language Model
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders** \
 Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi, Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu \
 [arXiv, 28 Aug 2024](https://arxiv.org/abs/2408.15998) • [code](https://github.com/NVlabs/EAGLE)
