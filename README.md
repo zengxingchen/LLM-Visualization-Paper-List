@@ -36,7 +36,7 @@ Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo  \
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng \
 [VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
-**Representing Charts as Text for Language Models: An In-Depth Study of Question Answering for Bar Charts** 、
+**Representing Charts as Text for Language Models: An In-Depth Study of Question Answering for Bar Charts**  
 Victor Soares Bursztyn, Jane Hoffswell, Eunyee Koh, Shunan Guo  
 [VIS 2024 Short Paper](https://ieeevis.b-cdn.net/vis_2024/pdfs/v-short-1276.pdf)
 
