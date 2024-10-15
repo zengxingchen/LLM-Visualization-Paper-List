@@ -1,6 +1,7 @@
 # LLM-Visualization-Paper-List
+
 - Content
-  - [0. Why am I curating this repository?](#why-am-i-curating-this-repository)
+  - [0. Why am I curating this repository?](#0-why-am-i-curating-this-repository)
   - [1. Chart Captioning](#1-chart-captioning)
   - [2. Chart Question Answering](#2-chart-question-answering)
     - [2.0 Data, Model](#20-data-model)
@@ -9,7 +10,7 @@
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
   - [5. Generic Multimodal Large Language Model](#5-generic-multimodal-large-language-model)
 
-## Why am I curating this repository?
+## 0. Why am I curating this repository?
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
 
 
