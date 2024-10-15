@@ -9,6 +9,7 @@
   - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
   - [5. Generic Multimodal Large Language Model](#5-generic-multimodal-large-language-model)
+  - [6. Related Survey Papers](#6-related-survey-papers)
 
 ## 0. Why am I curating this repository?
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
@@ -51,6 +52,10 @@ Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng
 Victor Soares Bursztyn, Jane Hoffswell, Eunyee Koh, Shunan Guo  
 [VIS 2024 Short Paper](https://ieeevis.b-cdn.net/vis_2024/pdfs/v-short-1276.pdf)
 
+**ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning**  
+Ahmed Masry, Mehrad Shahmohammadi, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty  
+[Findings of ACL 2024](https://github.com/vis-nlp/ChartInstruct) • [code](https://github.com/vis-nlp/ChartInstruct)  
+
 **ChartAssistant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**  
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
 [Findings of ACL 2024](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/OpenGVLab/ChartAst)
@@ -71,16 +76,21 @@ Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty
 
 **Deplot: One-shot visual language reasoning by plot-to-table translation**  
 Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Wenhu Chen, Nigel Collier, Yasemin Altun  
-[Findings of ACL2023](https://aclanthology.org/2023.findings-acl.660.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
+[Findings of ACL 2023](https://aclanthology.org/2023.findings-acl.660.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
 
 **MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering**  
 Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Martin Eisenschlos  
-[ACL2023](https://aclanthology.org/2023.acl-long.714.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
+[ACL 2023](https://aclanthology.org/2023.acl-long.714.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
 
 ### 2.1 Benchmark
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
 [NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
+
+**Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning**  
+Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao  
+[arXiv, 19 Feb 2024](https://arxiv.org/pdf/2402.12185)
+
 
 **ChartBench: A Benchmark for Complex Visual Reasoning in Charts**   
 Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo  
@@ -138,3 +148,13 @@ Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An
 **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**  
 Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie  
 [arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [code](https://github.com/cambrian-mllm/cambrian)
+
+## 6. Related Survey Papers
+**Generative AI for visualization: State of the art and future directions**  
+Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng  
+[Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000160)
+
+**Leveraging large models for crafting narrative visualization: a survey**  
+Yi He, Shixiong Cao, Yang Shi, Qing Chen, Ke Xu, Nan Cao  
+[arXiv, 25 Jan 2024](https://arxiv.org/pdf/2401.14010)
+
