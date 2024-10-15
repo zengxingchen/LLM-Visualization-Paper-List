@@ -20,16 +20,16 @@
 
 **Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models**  
 Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Jinwook Seo  
-[CHI 2024](https://arxiv.org/abs/2309.10245) • [Code](https://github.com/hyungkwonko/chart-llm)
+[CHI 2024](https://arxiv.org/abs/2309.10245) • [code](https://github.com/hyungkwonko/chart-llm)
 
 **VisText: A Benchmark for Semantically Rich Chart Captioning**  
 Benny J. Tang, Angie Boggust, Arvind Satyanarayan  
-[ACL 2023 Outstanding paper](https://aclanthology.org/2023.acl-long.401.pdf) • [Code](https://github.com/mitvis/vistext)
+[ACL 2023 Outstanding paper](https://aclanthology.org/2023.acl-long.401.pdf) • [code](https://github.com/mitvis/vistext)
 
 --- Pre-LLM ---  
 **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization**  
 Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty  
-[ACL 2022](https://aclanthology.org/2022.acl-long.277.pdf) • [Code](https://github.com/vis-nlp/Chart-to-text)
+[ACL 2022](https://aclanthology.org/2022.acl-long.277.pdf) • [code](https://github.com/vis-nlp/Chart-to-text)
 
 
 ## 2. Chart Question Answering
@@ -42,19 +42,19 @@ Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li
 
 **ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding**   
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
-[arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
+[arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [code](https://chartmoe.github.io/)
 
 **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**  
 Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, Fei Huang  
-[arXiv, 25 Apr 2024](https://arxiv.org/pdf/2404.16635) • [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
+[arXiv, 25 Apr 2024](https://arxiv.org/pdf/2404.16635) • [code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
 
 **OneChart: Purify the Chart Structural Extraction via One Auxiliary Token**  
 Jinyue Chen*, Lingyu Kong*, Haoran Wei, Chenglong Liu, Zheng Ge, Liang Zhao, Jianjian Sun, Chunrui Han, Xiangyu Zhang  
-[ACM MM 2024 (Oral)](https://arxiv.org/pdf/2404.09987) • [Homepage](https://onechartt.github.io/)
+[ACM MM 2024 (Oral)](https://arxiv.org/pdf/2404.09987) • [homepage](https://onechartt.github.io/)
 
 **Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**  
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
-[VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
+[VIS 2024](https://arxiv.org/abs/2407.20174) • [code](https://github.com/zengxingchen/ChartQA-MLLM)
 
 **Representing Charts as Text for Language Models: An In-Depth Study of Question Answering for Bar Charts**  
 Victor Soares Bursztyn, Jane Hoffswell, Eunyee Koh, Shunan Guo  
@@ -78,7 +78,7 @@ Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar
 
 **Chartllama: A multimodal llm for chart understanding and generation**  
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
-[arXiv, 27 Nov 2023]](https://arxiv.org/pdf/2311.16483) • [homepage](https://tingxueronghua.github.io/ChartLlama/)
+[arXiv, 27 Nov 2023](https://arxiv.org/pdf/2311.16483) • [homepage](https://tingxueronghua.github.io/ChartLlama/)
 
 --- Pre-LLM --- 
 
@@ -97,7 +97,7 @@ Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar
 ### 2.1 Benchmark
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
-[NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
+[NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [homepage](https://charxiv.github.io/)
 
 **Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning**  
 Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao  
