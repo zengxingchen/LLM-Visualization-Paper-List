@@ -85,7 +85,7 @@ Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque \
 Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang  
 [arXiv](https://arxiv.org/pdf/2406.09961) • [homepage](https://chartmimic.github.io/)
 
---- Pre-LLM --- \
+--- Pre-LLM ---  
 
 **Deep colormap extraction from visualizations**  
 Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, Haotian Li, Chi-Wing Fu, Huamin Qu  
@@ -100,6 +100,16 @@ Jorge Poco and Jeffrey Heer \
 **VisEval: A benchmark for data visualization in the era of large language models**  
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [code](https://github.com/microsoft/VisEval)
+
+--- Pre-LLM ---  
+
+**Natural Language to Visualization by Neural Machine Translation**  
+Yuyu Luo, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin  
+[VIS 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9617561) • [code](https://github.com/HKUSTDial/ncNet) 
+
+**nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task**  
+Yuyu Luo, Jiawei Tang, Guoliang Li  
+[Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [code](https://github.com/TsinghuaDatabaseGroup/nvBench)
 
 ## 4. Generic Multimodal Large Language Model
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders** \
