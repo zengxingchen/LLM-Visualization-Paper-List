@@ -20,16 +20,16 @@
 
 **Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models**  
 Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Jinwook Seo  
-[CHI 2024](https://arxiv.org/abs/2309.10245) • [code](https://github.com/hyungkwonko/chart-llm)
+[CHI 2024](https://arxiv.org/abs/2309.10245) • [Code](https://github.com/hyungkwonko/chart-llm)
 
 **VisText: A Benchmark for Semantically Rich Chart Captioning**  
 Benny J. Tang, Angie Boggust, Arvind Satyanarayan  
-[ACL 2023 Outstanding paper](https://aclanthology.org/2023.acl-long.401.pdf) • [code](https://github.com/mitvis/vistext)
+[ACL 2023 Outstanding paper](https://aclanthology.org/2023.acl-long.401.pdf) • [Code](https://github.com/mitvis/vistext)
 
 --- Pre-LLM ---  
 **Chart-to-Text: A Large-Scale Benchmark for Chart Summarization**  
 Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty  
-[ACL 2022](https://aclanthology.org/2022.acl-long.277.pdf) • [code](https://github.com/vis-nlp/Chart-to-text)
+[ACL 2022](https://aclanthology.org/2022.acl-long.277.pdf) • [Code](https://github.com/vis-nlp/Chart-to-text)
 
 
 ## 2. Chart Question Answering
@@ -42,19 +42,19 @@ Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li
 
 **ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding**   
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
-[arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [code](https://chartmoe.github.io/)
+[arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
 
 **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**  
 Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, Fei Huang  
-[arXiv, 25 Apr 2024](https://arxiv.org/pdf/2404.16635) • [code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
+[arXiv, 25 Apr 2024](https://arxiv.org/pdf/2404.16635) • [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
 
 **OneChart: Purify the Chart Structural Extraction via One Auxiliary Token**  
 Jinyue Chen*, Lingyu Kong*, Haoran Wei, Chenglong Liu, Zheng Ge, Liang Zhao, Jianjian Sun, Chunrui Han, Xiangyu Zhang  
-[ACM MM 2024 (Oral)](https://arxiv.org/pdf/2404.09987) • [homepage](https://onechartt.github.io/)
+[ACM MM 2024 (Oral)](https://arxiv.org/pdf/2404.09987) • [Homepage](https://onechartt.github.io/)
 
 **Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**  
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
-[VIS 2024](https://arxiv.org/abs/2407.20174) • [code](https://github.com/zengxingchen/ChartQA-MLLM)
+[VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
 **Representing Charts as Text for Language Models: An In-Depth Study of Question Answering for Bar Charts**  
 Victor Soares Bursztyn, Jane Hoffswell, Eunyee Koh, Shunan Guo  
@@ -62,15 +62,15 @@ Victor Soares Bursztyn, Jane Hoffswell, Eunyee Koh, Shunan Guo
 
 **ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning**  
 Ahmed Masry, Mehrad Shahmohammadi, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty  
-[Findings of ACL 2024](https://github.com/vis-nlp/ChartInstruct) • [code](https://github.com/vis-nlp/ChartInstruct)  
+[Findings of ACL 2024](https://github.com/vis-nlp/ChartInstruct) • [Code](https://github.com/vis-nlp/ChartInstruct)  
 
 **ChartAssistant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**  
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
-[Findings of ACL 2024](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/OpenGVLab/ChartAst)
+[Findings of ACL 2024](https://aclanthology.org/2022.findings-acl.177.pdf) • [Code](https://github.com/OpenGVLab/ChartAst)
 
 **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning**  
 Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu  
-[NAACL 2024](https://aclanthology.org/2024.naacl-long.70.pdf) • [code](https://github.com/FuxiaoLiu/MMC)
+[NAACL 2024](https://aclanthology.org/2024.naacl-long.70.pdf) • [Code](https://github.com/FuxiaoLiu/MMC)
 
 **Synthesize Step-by-Step: Tools Templates and LLMs as Data Generators for Reasoning-Based Chart VQA**  
 Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar  
@@ -78,26 +78,26 @@ Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar
 
 **Chartllama: A multimodal llm for chart understanding and generation**  
 Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
-[arXiv, 27 Nov 2023](https://arxiv.org/pdf/2311.16483) • [homepage](https://tingxueronghua.github.io/ChartLlama/)
+[arXiv, 27 Nov 2023](https://arxiv.org/pdf/2311.16483) • [Homepage](https://tingxueronghua.github.io/ChartLlama/)
 
 --- Pre-LLM --- 
 
 **UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning**  
 Ahmed Masry∗, Parsa Kavehzadeh∗, Xuan Long Do, Enamul Hoque, Shafiq Joty  
-[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.906.pdf) • [code](https://github.com/vis-nlp/UniChart)
+[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.906.pdf) • [Code](https://github.com/vis-nlp/UniChart)
 
 **Deplot: One-shot visual language reasoning by plot-to-table translation**  
 Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Wenhu Chen, Nigel Collier, Yasemin Altun  
-[Findings of ACL 2023](https://aclanthology.org/2023.findings-acl.660.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
+[Findings of ACL 2023](https://aclanthology.org/2023.findings-acl.660.pdf) • [Code](https://github.com/google-research/google-research/tree/master/deplot)
 
 **MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering**  
 Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Martin Eisenschlos  
-[ACL 2023](https://aclanthology.org/2023.acl-long.714.pdf) • [code](https://github.com/google-research/google-research/tree/master/deplot)
+[ACL 2023](https://aclanthology.org/2023.acl-long.714.pdf) • [Code](https://github.com/google-research/google-research/tree/master/deplot)
 
 ### 2.1 Benchmark
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
-[NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [homepage](https://charxiv.github.io/)
+[NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
 
 **Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning**  
 Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao  
@@ -106,18 +106,18 @@ Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Ch
 
 **ChartBench: A Benchmark for Complex Visual Reasoning in Charts**   
 Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo  
- [arXiv 26 Dec 2023](https://arxiv.org/pdf/2312.15915) • [homepage](https://chartbench.github.io/)
+ [arXiv 26 Dec 2023](https://arxiv.org/pdf/2312.15915) • [Homepage](https://chartbench.github.io/)
 
 --- Pre-LLM ---  
 **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning**  
 Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque  
-[Findings of ACL 2022](https://aclanthology.org/2022.findings-acl.177.pdf) • [code](https://github.com/vis-nlp/chartqa)
+[Findings of ACL 2022](https://aclanthology.org/2022.findings-acl.177.pdf) • [Code](https://github.com/vis-nlp/chartqa)
 
 
 ## 3. Chart Reverse Engineering
 **ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation**  
 Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang  
-[arXiv](https://arxiv.org/pdf/2406.09961) • [homepage](https://chartmimic.github.io/)
+[arXiv](https://arxiv.org/pdf/2406.09961) • [Homepage](https://chartmimic.github.io/)
 
 --- Pre-LLM ---  
 
@@ -133,21 +133,21 @@ Jorge Poco and Jeffrey Heer
 ## 4. Natural Language to Visualization
 **VisEval: A benchmark for data visualization in the era of large language models**  
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
-[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [code](https://github.com/microsoft/VisEval)
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [Code](https://github.com/microsoft/VisEval)
 
 **LLM4Vis: Explainable Visualization Recommendation using ChatGPT**  
 Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang  
-[EMNLP 2023 Industry](https://aclanthology.org/2023.emnlp-industry.64.pdf)  • [code](https://github.com/demoleiwang/LLM4Vis)  
+[EMNLP 2023 Industry](https://aclanthology.org/2023.emnlp-industry.64.pdf)  • [Code](https://github.com/demoleiwang/LLM4Vis)  
 
 --- Pre-LLM ---  
 
 **Natural Language to Visualization by Neural Machine Translation**  
 Yuyu Luo, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin  
-[VIS 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9617561) • [code](https://github.com/HKUSTDial/ncNet) 
+[VIS 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9617561) • [Code](https://github.com/HKUSTDial/ncNet) 
 
 **nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task**  
 Yuyu Luo, Jiawei Tang, Guoliang Li  
-[Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [code](https://github.com/TsinghuaDatabaseGroup/nvBench)
+[Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [Code](https://github.com/TsinghuaDatabaseGroup/nvBench)
 
 ## 5. Generic Multimodal Large Language Model
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
@@ -155,11 +155,11 @@ Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang,
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**  
 Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi, Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu  
-[arXiv, 28 Aug 2024](https://arxiv.org/abs/2408.15998) • [code](https://github.com/NVlabs/EAGLE)
+[arXiv, 28 Aug 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/NVlabs/EAGLE)
 
 **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**  
 Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie  
-[arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [code](https://github.com/cambrian-mllm/cambrian)
+[arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/cambrian-mllm/cambrian)
 
 ## 6. Related Survey Papers
 **Generative AI for visualization: State of the art and future directions**  
