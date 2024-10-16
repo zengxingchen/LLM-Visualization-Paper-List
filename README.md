@@ -187,7 +187,7 @@ Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng
 
 **From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures**  
 Jiani Huang, Haihua Chen, Fengchang Yu, Wei Lu  
-[ACM Computing Surveys](https://dl.acm.org/doi/pdf/10.1145/3657285)
+[ACM Computing Surveys 2024](https://dl.acm.org/doi/pdf/10.1145/3657285)
 
 **Leveraging large models for crafting narrative visualization: a survey**  
 Yi He, Shixiong Cao, Yang Shi, Qing Chen, Ke Xu, Nan Cao  
