@@ -243,7 +243,7 @@ Shawn Simister
 [VISxAI Workshop 2024 & Demo](https://www.explainprompt.com/)
 
 **Do Machine Learning Models Memorize or Generalize?**  
-Adam Pearce, Asma Ghandeharioun, Nada Hussein, Nithum Thain, Martin Wattenberg and Lucas Dixon
+Adam Pearce, Asma Ghandeharioun, Nada Hussein, Nithum Thain, Martin Wattenberg and Lucas Dixon  
 [VISxAI Workshop 2023 & Demo](https://pair.withgoogle.com/explorables/grokking/)
 
 ## 9. Generic Multimodal Large Language Model
