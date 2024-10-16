@@ -235,7 +235,11 @@ Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu
 
 **LLM Comparator: Interactive Analysis of Side-by-Side Evaluation of Large Language Models**  
 Minsuk Kahng, Ian Tenney, Mahima Pushkarna, Michael Xieyang Liu, James Wexler, Emily Reif, Krystal Kallarackal, Minsuk Chang, Michael Terry, and Lucas Dixon  
-[VIS2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10670495)  • [Code](https://github.com/PAIR-code/llm-comparator) • [Demo](https://pair-code.github.io/llm-comparator/)
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10670495)  • [Code](https://github.com/PAIR-code/llm-comparator) • [Demo](https://pair-code.github.io/llm-comparator/)
+
+**Towards Dataset-scale and Feature-oriented Evaluation of Text Summarization in Large Language Model Prompts**  
+Sam Yu-Te Lee, Aryaman Bahukhandi, Dongyu Liu, Kwan-Liu Ma  
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10669798) 
 
 **Can Large Language Models Explain Their Internal Mechanisms?**
 Nada Hussein, Asma Ghandeharioun, Ryan Mullins, Emily Reif, Jimbo Wilson, Nithum Thain and Lucas Dixon  
