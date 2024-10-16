@@ -13,7 +13,7 @@
     - [5.1 Design Preferences](#51-design-preferences)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
   - [7. Empirical Study on LLM's Chart Understanding & Chart Generation](#7-empirical-study-on-llms-chart-understanding--chart-generation)
-  - [8. Visualization for Interpreting, Evaluating, and Improving LLM](8-visualization-for-interpreting-evaluating-and-improving-llm)
+  - [8. Visualization for Interpreting, Evaluating, and Improving LLM](#8-visualization-for-interpreting-evaluating-and-improving-llm)
   - [9. Generic Multimodal Large Language Model](#9-generic-multimodal-large-language-model)
   - [10. Related Survey Papers](#10-related-survey-papers)
 
