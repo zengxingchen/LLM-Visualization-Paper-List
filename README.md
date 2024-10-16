@@ -11,7 +11,7 @@
   - [5. Visualization Design](#5-visualization-design)
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
-  - [6. Visualization Agents & Automatic Judge](#6-visualization-agents&automatic-judge)
+  - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
   - [7. Generic Multimodal Large Language Model](#7-generic-multimodal-large-language-model)
   - [8. Related Survey Papers](#8-related-survey-papers)
 
