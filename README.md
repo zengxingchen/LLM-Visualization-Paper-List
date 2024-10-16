@@ -10,6 +10,7 @@
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
   - [5. Visualization Design](#5-visualization-design)
     - [5.0 Color](#50-color)
+    - [5.1 Design Preferences](#51-design-preferences)
   - [6. Generic Multimodal Large Language Model](#6-generic-multimodal-large-language-model)
   - [7. Related Survey Papers](#7-related-survey-papers)
 
@@ -167,6 +168,11 @@ Chuhan Shi, Weiwei Cui, Chengzhong Liu, Chengbo Zheng, Haidong Zhang, Qiong Luo,
 
 **Large Language Models estimate fine-grained human color-concept associations**  
 [arXiv, 4 May 2024](https://arxiv.org/abs/2406.17781)
+
+### 5.1 Design Preferences
+**DracoGPT: Extracting Visualization Design Preferences from Large Language Models**  
+Huichen Will Wang, Mitchell Gordon, Leilani Battle, and Jeffrey Heer  
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10681108)
 
 ## 6. Generic Multimodal Large Language Model
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
