@@ -173,6 +173,17 @@ Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang
 Victor Dibia  
 [ACL 2023 Demo](https://arxiv.org/pdf/2303.02927) • [Code](https://github.com/microsoft/lida)
 
+--- Pre-LLM ---  
+
+**Natural Language to Visualization by Neural Machine Translation**  
+Yuyu Luo, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin  
+[VIS 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9617561) • [Code](https://github.com/HKUSTDial/ncNet) 
+
+**nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task**  
+Yuyu Luo, Jiawei Tang, Guoliang Li  
+[Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [Code](https://github.com/TsinghuaDatabaseGroup/nvBench)
+
+
 ### 4.1 Application Scenarios
 **Beyond generating code: Evaluating gpt on a data visualization course**  
 Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna Beyer  
@@ -183,15 +194,6 @@ Liqi Cheng, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, Yingcai Wu
 [TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10507016)
 
 
---- Pre-LLM ---  
-
-**Natural Language to Visualization by Neural Machine Translation**  
-Yuyu Luo, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin  
-[VIS 2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9617561) • [Code](https://github.com/HKUSTDial/ncNet) 
-
-**nvBench: A Large-Scale Synthesized Dataset for Cross-Domain Natural Language to Visualization Task**  
-Yuyu Luo, Jiawei Tang, Guoliang Li  
-[Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [Code](https://github.com/TsinghuaDatabaseGroup/nvBench)
 
 ## 5. Visualization Design
 ### 5.0 Color
