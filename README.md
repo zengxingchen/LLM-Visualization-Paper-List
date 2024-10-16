@@ -13,8 +13,9 @@
     - [5.1 Design Preferences](#51-design-preferences)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
   - [7. Empirical Study on LLM's Chart Understanding & Chart Generation](#7-empirical-study-on-llms-chart-understanding--chart-generation)
-  - [8. Generic Multimodal Large Language Model](#8-generic-multimodal-large-language-model)
-  - [9. Related Survey Papers](#9-related-survey-papers)
+  - [8. Visualization for Interpreting, Evaluating, and Improving LLM](8-visualization-for-interpreting-evaluating-and-improving-llm)
+  - [9. Generic Multimodal Large Language Model](#9-generic-multimodal-large-language-model)
+  - [10. Related Survey Papers](#10-related-survey-papers)
 
 ## 0. Why am I curating this repository?
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
@@ -226,7 +227,15 @@ Zhongzheng Xu, Emily Wall
 Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu  
 [VIS 2024 Short Paper](https://arxiv.org/pdf/2407.06129) • [Code](https://github.com/hdi-umd/Semantic_Profiling_LLM_Evaluation)
 
-## 8. Generic Multimodal Large Language Model
+## 8. Visualization for Interpreting, Evaluating, and Improving LLM
+> If you are interested in this topic, you can find some interesting interactive papers/demos in the [VISxAI workshop](https://visxai.io/).
+
+**LLM Comparator: Interactive Analysis of Side-by-Side Evaluation of Large Language Models**  
+Minsuk Kahng, Ian Tenney, Mahima Pushkarna, Michael Xieyang Liu, James Wexler, Emily Reif, Krystal Kallarackal, Minsuk Chang, Michael Terry, and Lucas Dixon  
+[VIS2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10670495)  • [Code](https://github.com/PAIR-code/llm-comparator) • [Demo](https://pair-code.github.io/llm-comparator/)
+
+
+## 9. Generic Multimodal Large Language Model
 > Refer to [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) for a more comprehensive list. This repo only records papers that bring insights to **LLM**x**Vis**.
 
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
@@ -240,7 +249,7 @@ Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An
 Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie  
 [arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/cambrian-mllm/cambrian)
 
-## 9. Related Survey Papers
+## 10. Related Survey Papers
 **Generative AI for visualization: State of the art and future directions**  
 Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng  
 [Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000160)
