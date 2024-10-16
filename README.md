@@ -184,3 +184,7 @@ Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng
 Yi He, Shixiong Cao, Yang Shi, Qing Chen, Ke Xu, Nan Cao  
 [arXiv, 25 Jan 2024](https://arxiv.org/pdf/2401.14010)
 
+**Chart Question Answering: State of the Art and Future Directions**  
+Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry  
+[EuroVis 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14573) 
+
