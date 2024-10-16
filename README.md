@@ -43,7 +43,7 @@ Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, En
 ### 2.0 Data, Model
 **SynChart: Synthesizing Charts from Language Models**  
 Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li  
-[arXiv](https://arxiv.org/abs/2409.16517)
+[arXiv, 25 Sep 2024](https://arxiv.org/abs/2409.16517)
 
 **ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding**   
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
@@ -128,7 +128,7 @@ Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque
 ## 3. Chart Reverse Engineering
 **ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation**  
 Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang  
-[arXiv](https://arxiv.org/pdf/2406.09961) • [Homepage](https://chartmimic.github.io/)
+[arXiv, 14 Jun 2024]](https://arxiv.org/pdf/2406.09961) • [Homepage](https://chartmimic.github.io/)
 
 --- Pre-LLM ---  
 
