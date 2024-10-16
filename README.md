@@ -176,6 +176,10 @@ Chuhan Shi, Weiwei Cui, Chengzhong Liu, Chengbo Zheng, Haidong Zhang, Qiong Luo,
 Huichen Will Wang, Mitchell Gordon, Leilani Battle, and Jeffrey Heer  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10681108)
 
+**Bavisitter: Integrating Design Guidelines into Large Language Models for Visualization Authoring**
+Jiwon Choi, Jaeung Lee, Jaemin Jo
+[VIS 2024 Short Paper](https://idclab.skku.edu/assets/Bavisitter.pdf)
+
 ## 6. Visualization Agents & Automatic Judge
 **The Visualization JUDGE: Can Multimodal Foundation Models Guide Visualization Design Through Visual Perception?**  
 Matthew Berger, Shusen Liu  
@@ -194,6 +198,10 @@ Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Brem
 **How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**  
 Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cindy Xiong Bearfield  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10681139)
+
+**An Empirical Evaluation of the GPT-4 Multimodal Language Model on Visualization Literacy Tasks**  
+Alexander Bendeck, John Stasko  
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670574)
 
 **How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**  
 Leo Yu-Ho Lo, Huamin Qu  
