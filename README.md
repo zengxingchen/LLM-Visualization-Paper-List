@@ -220,6 +220,8 @@ Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu
 [VIS 2024 Short Paper](https://arxiv.org/pdf/2407.06129) • [Code](https://github.com/hdi-umd/Semantic_Profiling_LLM_Evaluation)
 
 ## 8. Generic Multimodal Large Language Model
+> Refer to [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) for a more comprehensive list. This repo only records papers that bring insights to **LLM**x**Vis**.
+
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
