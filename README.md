@@ -12,7 +12,7 @@
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
-  - [7. Empirical Study on LLM's Chart Understanding](#7-empirical-study-on-llm's-chart-understanding)
+  - [7. Empirical Study on LLM's Chart Understanding](#7-empirical-study-on-llms-chart-understanding)
   - [8. Generic Multimodal Large Language Model](#8-generic-multimodal-large-language-model)
   - [9. Related Survey Papers](#9-related-survey-papers)
 
@@ -181,9 +181,14 @@ Huichen Will Wang, Mitchell Gordon, Leilani Battle, and Jeffrey Heer
 Matthew Berger, Shusen Liu  
 [arXiv, 5 Oct 2024](https://arxiv.org/pdf/2410.04280)  
 
+**WaitGPT: Monitoring and Steering Conversational LLM Agent in Data Analysis with On-the-Fly Code Visualization**  
+Liwenhan Xie, Chengbo Zheng, Haijun Xia, Huamin Qu, Chen Zhu-Tian   
+[UIST 2024](https://arxiv.org/pdf/2408.01703)
+
 **AVA: Towards Autonomous Visualization Agents through Visual Perception‐Driven Decision‐Making**  
 Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Bremer  
 [EuroVis 2024](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.15093)  
+
 
 ## 7. Empirical Study on LLM's Chart Understanding
 **How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**  
