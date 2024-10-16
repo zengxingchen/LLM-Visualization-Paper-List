@@ -27,7 +27,7 @@
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
 - Feel free to open an issue or a pull request to add a new paper you appreciate.
 - Papers under the same category are recorded in reverse chronological order.
-- **Star and watch this repo for the updates 😁**
+- **Star and watch this repo for future updates 😁**
   
 ## 1. Chart Captioning
 
