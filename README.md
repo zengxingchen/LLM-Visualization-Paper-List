@@ -223,6 +223,10 @@ F. Yanez and C. Nobre
 Matthew Berger, Shusen Liu  
 [arXiv, 5 Oct 2024](https://arxiv.org/pdf/2410.04280)  
 
+**MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization**
+Zhiyu Yang and Zihan Zhou and Shuo Wang and Xin Cong and Xu Han and Yukun Yan and Zhenghao Liu and Zhixing Tan and Pengyuan Liu and Dong Yu and Zhiyuan Liu and Xiaodong Shi and Maosong Sun  
+[Findings of ACL 2024](https://aclanthology.org/2024.findings-acl.701.pdf) • [Code](https://github.com/thunlp/MatPlotAgent)  
+
 **WaitGPT: Monitoring and Steering Conversational LLM Agent in Data Analysis with On-the-Fly Code Visualization**  
 Liwenhan Xie, Chengbo Zheng, Haijun Xia, Huamin Qu, Chen Zhu-Tian   
 [UIST 2024](https://arxiv.org/pdf/2408.01703)
@@ -278,6 +282,10 @@ Minsuk Kahng, Ian Tenney, Mahima Pushkarna, Michael Xieyang Liu, James Wexler, E
 **Towards Dataset-scale and Feature-oriented Evaluation of Text Summarization in Large Language Model Prompts**  
 Sam Yu-Te Lee, Aryaman Bahukhandi, Dongyu Liu, Kwan-Liu Ma  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10669798) 
+
+**LLM Attributor: Attribute LLM's Generated Text to Training Data**  
+Seongmin Lee, Zijie J. Wang, Aishwarya Chakravarthy, Alec Helbling, ShengYun Peng, Mansi Phute, Duen Horng (Polo) Chau, Minsuk Kahng  
+[VIS 2024 Poster](http://arxiv.org/abs/2404.01361) • [Code](https://github.com/poloclub/LLM-Attributor)
 
 **Can Large Language Models Explain Their Internal Mechanisms?**
 Nada Hussein, Asma Ghandeharioun, Ryan Mullins, Emily Reif, Jimbo Wilson, Nithum Thain and Lucas Dixon  
