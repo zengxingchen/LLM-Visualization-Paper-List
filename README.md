@@ -11,8 +11,9 @@
   - [5. Visualization Design](#5-visualization-design)
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
-  - [6. Generic Multimodal Large Language Model](#6-generic-multimodal-large-language-model)
-  - [7. Related Survey Papers](#7-related-survey-papers)
+  - [6. Visualization Agents & Automatic Judge](#6-visualization-agents)
+  - [7. Generic Multimodal Large Language Model](#7-generic-multimodal-large-language-model)
+  - [8. Related Survey Papers](#8-related-survey-papers)
 
 ## 0. Why am I curating this repository?
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
@@ -174,7 +175,18 @@ Chuhan Shi, Weiwei Cui, Chengzhong Liu, Chengbo Zheng, Haidong Zhang, Qiong Luo,
 Huichen Will Wang, Mitchell Gordon, Leilani Battle, and Jeffrey Heer  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10681108)
 
-## 6. Generic Multimodal Large Language Model
+## 6. Visualization Agents & Automatic Judge
+**The Visualization JUDGE: Can Multimodal Foundation Models Guide Visualization Design Through Visual Perception?**  
+Matthew Berger, Shusen Liu  
+[arXiv, 5 Oct 2024](https://arxiv.org/pdf/2410.04280)  
+
+**AVA: Towards Autonomous Visualization Agents through Visual Perception‐Driven Decision‐Making**  
+Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Bremer  
+[EuroVis 2024](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.15093)  
+
+
+
+## 7. Generic Multimodal Large Language Model
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
@@ -186,7 +198,7 @@ Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An
 Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie  
 [arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/cambrian-mllm/cambrian)
 
-## 7. Related Survey Papers
+## 8. Related Survey Papers
 **Generative AI for visualization: State of the art and future directions**  
 Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng  
 [Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000160)
