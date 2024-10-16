@@ -12,7 +12,7 @@
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
-  - [7. Empirical Study on LLM's Chart Understanding](#7-empirical-study-on-llms-chart-understanding)
+  - [7. Empirical Study on LLM's Chart Understanding](#7-empirical-study-on-llms-chart-understanding--chart-generation)
   - [8. Generic Multimodal Large Language Model](#8-generic-multimodal-large-language-model)
   - [9. Related Survey Papers](#9-related-survey-papers)
 
@@ -205,7 +205,7 @@ Alexander Bendeck, John Stasko
 
 **Promises and Pitfalls: Using Large Language Models to Generate Visualization Items**
 Yuan Cui, Lily W. Ge, Yiren Ding, Lane Harrison, Fumeng Yang, and Matthew Kay  
-[VIS2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670418)
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670418)
 
 **How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**  
 Leo Yu-Ho Lo, Huamin Qu  
