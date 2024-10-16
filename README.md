@@ -176,8 +176,8 @@ Chuhan Shi, Weiwei Cui, Chengzhong Liu, Chengbo Zheng, Haidong Zhang, Qiong Luo,
 Huichen Will Wang, Mitchell Gordon, Leilani Battle, and Jeffrey Heer  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10681108)
 
-**Bavisitter: Integrating Design Guidelines into Large Language Models for Visualization Authoring**
-Jiwon Choi, Jaeung Lee, Jaemin Jo
+**Bavisitter: Integrating Design Guidelines into Large Language Models for Visualization Authoring**  
+Jiwon Choi, Jaeung Lee, Jaemin Jo  
 [VIS 2024 Short Paper](https://idclab.skku.edu/assets/Bavisitter.pdf)
 
 ## 6. Visualization Agents & Automatic Judge
@@ -194,7 +194,7 @@ Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Brem
 [EuroVis 2024](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.15093)  
 
 
-## 7. Empirical Study on LLM's Chart Understanding 
+## 7. Empirical Study on LLM's Chart Understanding & Chart Generation 
 **How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**  
 Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cindy Xiong Bearfield  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10681139)
@@ -202,6 +202,10 @@ Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cin
 **An Empirical Evaluation of the GPT-4 Multimodal Language Model on Visualization Literacy Tasks**  
 Alexander Bendeck, John Stasko  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670574)
+
+**Promises and Pitfalls: Using Large Language Models to Generate Visualization Items**
+Yuan Cui, Lily W. Ge, Yiren Ding, Lane Harrison, Fumeng Yang, and Matthew Kay  
+[VIS2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670418)
 
 **How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**  
 Leo Yu-Ho Lo, Huamin Qu  
