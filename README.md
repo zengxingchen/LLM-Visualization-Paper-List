@@ -300,7 +300,12 @@ Jiani Huang, Haihua Chen, Fengchang Yu, Wei Lu
 Yi He, Shixiong Cao, Yang Shi, Qing Chen, Ke Xu, Nan Cao  
 [arXiv, 25 Jan 2024](https://arxiv.org/pdf/2401.14010)
 
+**AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization**  
+Aoyu Wu, Yun Wang, Xinhuan Shu, Dominik Moritz, Weiwei Cui, Haidong Zhang, Dongmei Zhang, and Huamin Qu  
+[TVCG 2022](https://arxiv.org/pdf/2102.01330) • [Homepage](https://ai4vis.github.io/)
+
 **Chart Question Answering: State of the Art and Future Directions**  
 Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry  
 [EuroVis 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14573) 
+
 
