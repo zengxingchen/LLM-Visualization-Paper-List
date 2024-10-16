@@ -257,7 +257,7 @@ Zhimin Li, Haichao Miao, Valerio Pascucci, Shusen Liu
 Kiroong Choe, Chaerin Lee, S. Lee, Jiwon Song, Aeri Cho, Nam Wook Kim, Jinwook Seo  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10555321)
 
-**Promises and Pitfalls: Using Large Language Models to Generate Visualization Items**
+**Promises and Pitfalls: Using Large Language Models to Generate Visualization Items**  
 Yuan Cui, Lily W. Ge, Yiren Ding, Lane Harrison, Fumeng Yang, and Matthew Kay  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670418)
 
@@ -269,7 +269,7 @@ Leo Yu-Ho Lo, Huamin Qu
 Zhongzheng Xu, Emily Wall  
 [VIS 2024 Short Paper](https://arxiv.org/pdf/2404.19097)
 
-**Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization**
+**Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization**  
 Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu  
 [VIS 2024 Short Paper](https://arxiv.org/pdf/2407.06129) • [Code](https://github.com/hdi-umd/Semantic_Profiling_LLM_Evaluation)
 
@@ -310,6 +310,7 @@ Adam Pearce, Asma Ghandeharioun, Nada Hussein, Nithum Thain, Martin Wattenberg a
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
+
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**  
 Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi, Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu  
 [arXiv, 28 Aug 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/NVlabs/EAGLE)
