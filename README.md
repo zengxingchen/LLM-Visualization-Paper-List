@@ -12,7 +12,7 @@
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
-  - [7. Empirical Study on LLM's Chart Understanding](#7-empirical-study-on-llms-chart-understanding--chart-generation)
+  - [7. Empirical Study on LLM's Chart Understanding & Chart Generation](#7-empirical-study-on-llms-chart-understanding--chart-generation)
   - [8. Generic Multimodal Large Language Model](#8-generic-multimodal-large-language-model)
   - [9. Related Survey Papers](#9-related-survey-papers)
 
