@@ -221,7 +221,7 @@ Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Brem
 
 **AVA: An automated and AI-driven intelligent visual analytics framework**  
 Jiazhe Wang, Xi Li, Chenlu Li, Di Peng, Arran Zeyu Wang, Yuhui Gu, Xingui Lai, Haifeng Zhang, Xinyue Xu, Xiaoqing Dong, Zhifeng Lin, Jiehui Zhou, Xingyu Liu, Wei Chen  
-[Visual Informatics 2024]
+[Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000226)
 
 ## 7. Empirical Study on LLM's Chart Understanding & Chart Generation 
 **How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**  
