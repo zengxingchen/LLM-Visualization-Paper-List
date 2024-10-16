@@ -107,10 +107,13 @@ Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
 [NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
 
+**ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering**  
+Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo  
+[Findings of EMNLP 2024](https://arxiv.org/pdf/2405.07001)  • [Code](https://chartinsight.github.io/)
+
 **Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning**  
 Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao  
 [arXiv, 19 Feb 2024](https://arxiv.org/pdf/2402.12185)
-
 
 **ChartBench: A Benchmark for Complex Visual Reasoning in Charts**   
 Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo  
@@ -237,6 +240,10 @@ Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai C
 **Generative AI for visualization: State of the art and future directions**  
 Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng  
 [Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000160)
+
+**Datasets of Visualization for Machine Learning**  
+Can Liu, Ruike Jiang, Shaocong Tan, Jiacheng Yu, Chaofan Yang, Hanning Shao, Xiaoru Yuan  
+[arXiv, 23 Jul 2024](https://arxiv.org/pdf/2407.16351) 
 
 **From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures**  
 Jiani Huang, Haihua Chen, Fengchang Yu, Wei Lu  
