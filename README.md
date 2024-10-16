@@ -185,6 +185,10 @@ Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai C
 Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng  
 [Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000160)
 
+**From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures**  
+Jiani Huang, Haihua Chen, Fengchang Yu, Wei Lu  
+[ACM Computing Surveys](https://dl.acm.org/doi/pdf/10.1145/3657285)
+
 **Leveraging large models for crafting narrative visualization: a survey**  
 Yi He, Shixiong Cao, Yang Shi, Qing Chen, Ke Xu, Nan Cao  
 [arXiv, 25 Jan 2024](https://arxiv.org/pdf/2401.14010)
