@@ -296,6 +296,10 @@ Can Liu, Ruike Jiang, Shaocong Tan, Jiacheng Yu, Chaofan Yang, Hanning Shao, Xia
 Jiani Huang, Haihua Chen, Fengchang Yu, Wei Lu  
 [ACM Computing Surveys 2024](https://dl.acm.org/doi/pdf/10.1145/3657285)
 
+**From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models**  
+Kung-Hsiang Huang, Hou Pong Chan, Yi R. Fung, Haoyi Qiu, Mingyang Zhou, Shafiq Joty, Shih-Fu Chang, Heng Ji  
+[arXiv, 18 Mar 2024](https://arxiv.org/pdf/2403.12027)
+
 **Leveraging large models for crafting narrative visualization: a survey**  
 Yi He, Shixiong Cao, Yang Shi, Qing Chen, Ke Xu, Nan Cao  
 [arXiv, 25 Jan 2024](https://arxiv.org/pdf/2401.14010)
@@ -307,5 +311,7 @@ Aoyu Wu, Yun Wang, Xinhuan Shu, Dominik Moritz, Weiwei Cui, Haidong Zhang, Dongm
 **Chart Question Answering: State of the Art and Future Directions**  
 Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry  
 [EuroVis 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14573) 
+
+
 
 
