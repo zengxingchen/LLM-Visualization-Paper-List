@@ -104,9 +104,7 @@ Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chen
 Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Martin Eisenschlos  
 [ACL 2023](https://aclanthology.org/2023.acl-long.714.pdf) • [Code](https://github.com/google-research/google-research/tree/master/deplot)
 
-**Dvqa: Understanding data visualizations via question answering**  
-Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan  
-[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf) • [Code](https://github.com/kushalkafle/DVQA_dataset)
+
 ### 2.1 Benchmark
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
@@ -128,6 +126,14 @@ Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo
 **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning**  
 Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque  
 [Findings of ACL 2022](https://aclanthology.org/2022.findings-acl.177.pdf) • [Code](https://github.com/vis-nlp/chartqa)
+
+**PlotQA: Reasoning over Scientific Plots**  
+Pritha Ganguly, Nitesh Methani, Mitesh Khapra, Pratyush Kumar  
+[WACV 2020](https://arxiv.org/pdf/1909.00997.pdf) • [Code](https://github.com/NiteshMethani/PlotQA)
+
+**Dvqa: Understanding data visualizations via question answering**  
+Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan  
+[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf) • [Code](https://github.com/kushalkafle/DVQA_dataset)
 
 
 ## 3. Chart Reverse Engineering
