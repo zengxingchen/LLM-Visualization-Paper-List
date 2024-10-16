@@ -157,14 +157,21 @@ Jorge Poco and Jeffrey Heer
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [Code](https://github.com/microsoft/VisEval)
 
+**Beyond generating code: Evaluating gpt on a data visualization course**  
+Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna Beyer  
+[EduVis 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10344146)  • [Code](https://github.com/GPT4VIS/GPT-4-CS171)
+
 **Chartgpt: Leveraging LLMs to generate charts from abstract natural language**  
 Yuan Tian, Weiwei Cui, Dazhen Deng, Xinjing Yi, Yurun Yang, Haidong Zhang, Yingcai Wu  
 [TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10443572)
 
-
 **LLM4Vis: Explainable Visualization Recommendation using ChatGPT**  
 Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang  
 [EMNLP 2023 Industry](https://aclanthology.org/2023.emnlp-industry.64.pdf)  • [Code](https://github.com/demoleiwang/LLM4Vis)  
+
+**LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models**
+Victor Dibia  
+[ACL 2023 Demo](https://arxiv.org/pdf/2303.02927) • [Code](https://github.com/microsoft/lida)
 
 --- Pre-LLM ---  
 
