@@ -1,4 +1,7 @@
-# LLM-Visualization-Paper-List
+# Awesome-LLM-Visualization-Paper-List
+<p align="center" width="100%">
+    <img width="517" alt="Screenshot 2024-10-16 at 12 48 06" src="https://github.com/user-attachments/assets/3c27de69-364e-4e6f-a4fb-7f5f48a40c42">
+</p>
 
 - Content
   - [0. Why am I curating this repository?](#0-why-am-i-curating-this-repository)
