@@ -14,6 +14,7 @@
   - [5. Visualization Design](#5-visualization-design)
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
+    - [5.2 User-Adaptive Visualization](#52-user-adaptive-visualization)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
   - [7. Empirical Study on LLM's Chart Understanding & Chart Generation](#7-empirical-study-on-llms-chart-understanding--chart-generation)
   - [🔥 8. Visualization for Interpreting, Evaluating, and Improving LLM](#8-visualization-for-interpreting-evaluating-and-improving-llm)
@@ -186,6 +187,11 @@ Huichen Will Wang, Mitchell Gordon, Leilani Battle, and Jeffrey Heer
 **Bavisitter: Integrating Design Guidelines into Large Language Models for Visualization Authoring**  
 Jiwon Choi, Jaeung Lee, Jaemin Jo  
 [VIS 2024 Short Paper](https://idclab.skku.edu/assets/Bavisitter.pdf)
+
+### 5.2 User-Adaptive Visualization
+**User-Adaptive Visualizations: An Exploration with GPT-4**  
+F. Yanez and C. Nobre  
+[MLVis 2024](https://diglib.eg.org/server/api/core/bitstreams/23abe5fb-4de1-432f-97ab-ad757f5418e3/content)
 
 ## 6. Visualization Agents & Automatic Judge
 **The Visualization JUDGE: Can Multimodal Foundation Models Guide Visualization Design Through Visual Perception?**  
