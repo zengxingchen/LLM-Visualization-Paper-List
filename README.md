@@ -12,8 +12,9 @@
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
-  - [7. Generic Multimodal Large Language Model](#7-generic-multimodal-large-language-model)
-  - [8. Related Survey Papers](#8-related-survey-papers)
+  - [7. Human-centric Empirical Study](#7-human-centric-empirical-study)
+  - [8. Generic Multimodal Large Language Model](#8-generic-multimodal-large-language-model)
+  - [9. Related Survey Papers](#9-related-survey-papers)
 
 ## 0. Why am I curating this repository?
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
@@ -184,9 +185,16 @@ Matthew Berger, Shusen Liu
 Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Bremer  
 [EuroVis 2024](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.15093)  
 
+## 7. Empirical Study on LLM's Chart Understanding
+**How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**  
+Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cindy Xiong Bearfield  
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10681139)
 
+**How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**  
+Leo Yu-Ho Lo, Huamin Qu  
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10679256)
 
-## 7. Generic Multimodal Large Language Model
+## 8. Generic Multimodal Large Language Model
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
@@ -198,7 +206,7 @@ Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An
 Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie  
 [arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/cambrian-mllm/cambrian)
 
-## 8. Related Survey Papers
+## 9. Related Survey Papers
 **Generative AI for visualization: State of the art and future directions**  
 Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng  
 [Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000160)
