@@ -140,6 +140,11 @@ Jorge Poco and Jeffrey Heer
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [Code](https://github.com/microsoft/VisEval)
 
+**Chartgpt: Leveraging LLMs to generate charts from abstract natural language**  
+Yuan Tian, Weiwei Cui, Dazhen Deng, Xinjing Yi, Yurun Yang, Haidong Zhang, Yingcai Wu  
+[TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10443572)
+
+
 **LLM4Vis: Explainable Visualization Recommendation using ChatGPT**  
 Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang  
 [EMNLP 2023 Industry](https://aclanthology.org/2023.emnlp-industry.64.pdf)  • [Code](https://github.com/demoleiwang/LLM4Vis)  
