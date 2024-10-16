@@ -206,6 +206,10 @@ Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cin
 Alexander Bendeck, John Stasko  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670574)
 
+**Enhancing Data Literacy On-demand: LLMs as Guides for Novices in Chart Interpretation**  
+Kiroong Choe, Chaerin Lee, S. Lee, Jiwon Song, Aeri Cho, Nam Wook Kim, Jinwook Seo  
+[VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10555321)
+
 **Promises and Pitfalls: Using Large Language Models to Generate Visualization Items**
 Yuan Cui, Lily W. Ge, Yiren Ding, Lane Harrison, Fumeng Yang, and Matthew Kay  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670418)
