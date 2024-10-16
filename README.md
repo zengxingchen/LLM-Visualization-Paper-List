@@ -190,7 +190,7 @@ Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Brem
 [EuroVis 2024](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.15093)  
 
 
-## 7. Empirical Study on LLM's Chart Understanding
+## 7. Empirical Study on LLM's Chart Understanding 
 **How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**  
 Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cindy Xiong Bearfield  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10681139)
@@ -198,6 +198,14 @@ Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cin
 **How Good (Or Bad) Are LLMs at Detecting Misleading Visualizations?**  
 Leo Yu-Ho Lo, Huamin Qu  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10679256)
+
+**Exploring the Capability of LLMs in Performing Low-Level Visual Analytic Tasks on SVG Data Visualizations**  
+Zhongzheng Xu, Emily Wall  
+[VIS 2024 Short Paper](https://arxiv.org/pdf/2404.19097)
+
+**Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization**
+Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu  
+[VIS 2024 Short Paper](https://arxiv.org/pdf/2407.06129) • [Code](https://github.com/hdi-umd/Semantic_Profiling_LLM_Evaluation)
 
 ## 8. Generic Multimodal Large Language Model
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
