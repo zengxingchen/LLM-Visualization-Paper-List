@@ -334,6 +334,10 @@ Aoyu Wu, Yun Wang, Xinhuan Shu, Dominik Moritz, Weiwei Cui, Haidong Zhang, Dongm
 Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry  
 [EuroVis 2022](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14573) 
 
+**Towards Natural Language Interfaces for Data Visualization: A Survey**  
+Leixian Shen, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, Jianmin Wang  
+[TVCG 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9699035)
+
 
 
 
