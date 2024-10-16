@@ -11,6 +11,8 @@
     - [2.1 Benchmark](#21-benchmark)
   - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
+     - [4.0 Method, Framework, and Benchmark](#40-method-framework-and-benchmark)
+     - [4.1 Application Scenarios](#41-application-scenarios)
   - [5. Visualization Design](#5-visualization-design)
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
@@ -153,13 +155,11 @@ Jorge Poco and Jeffrey Heer
 
 
 ## 4. Natural Language to Visualization
+### 4.0 Method, Framework, and Benchmark
 **VisEval: A benchmark for data visualization in the era of large language models**  
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [Code](https://github.com/microsoft/VisEval)
 
-**Beyond generating code: Evaluating gpt on a data visualization course**  
-Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna Beyer  
-[EduVis 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10344146)  • [Code](https://github.com/GPT4VIS/GPT-4-CS171)
 
 **Chartgpt: Leveraging LLMs to generate charts from abstract natural language**  
 Yuan Tian, Weiwei Cui, Dazhen Deng, Xinjing Yi, Yurun Yang, Haidong Zhang, Yingcai Wu  
@@ -172,6 +172,16 @@ Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang
 **LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models**
 Victor Dibia  
 [ACL 2023 Demo](https://arxiv.org/pdf/2303.02927) • [Code](https://github.com/microsoft/lida)
+
+### 4.1 Application Scenarios
+**Beyond generating code: Evaluating gpt on a data visualization course**  
+Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna Beyer  
+[EduVis 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10344146)  • [Code](https://github.com/GPT4VIS/GPT-4-CS171)
+
+**SNIL: Generating Sports News from Insights with Large Language Models** 
+Liqi Cheng, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, Yingcai Wu  
+[TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10507016)
+
 
 --- Pre-LLM ---  
 
