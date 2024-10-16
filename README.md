@@ -234,6 +234,17 @@ Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu
 Minsuk Kahng, Ian Tenney, Mahima Pushkarna, Michael Xieyang Liu, James Wexler, Emily Reif, Krystal Kallarackal, Minsuk Chang, Michael Terry, and Lucas Dixon  
 [VIS2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10670495)  • [Code](https://github.com/PAIR-code/llm-comparator) • [Demo](https://pair-code.github.io/llm-comparator/)
 
+**Can Large Language Models Explain Their Internal Mechanisms?**
+Nada Hussein, Asma Ghandeharioun, Ryan Mullins, Emily Reif, Jimbo Wilson, Nithum Thain and Lucas Dixon  
+[VISxAI Workshop 2024 & Demo](https://pair.withgoogle.com/explorables/patchscopes/)
+
+**ExplainPrompt: Decoding the language of AI prompts**  
+Shawn Simister  
+[VISxAI Workshop 2024 & Demo](https://www.explainprompt.com/)
+
+**Do Machine Learning Models Memorize or Generalize?**  
+Adam Pearce, Asma Ghandeharioun, Nada Hussein, Nithum Thain, Martin Wattenberg and Lucas Dixon
+[VISxAI Workshop 2023 & Demo](https://pair.withgoogle.com/explorables/grokking/)
 
 ## 9. Generic Multimodal Large Language Model
 > Refer to [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) for a more comprehensive list. This repo only records papers that bring insights to **LLM**x**Vis**.
