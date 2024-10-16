@@ -170,7 +170,7 @@ Yuan Tian, Weiwei Cui, Dazhen Deng, Xinjing Yi, Yurun Yang, Haidong Zhang, Yingc
 Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang  
 [EMNLP 2023 Industry](https://aclanthology.org/2023.emnlp-industry.64.pdf)  • [Code](https://github.com/demoleiwang/LLM4Vis)  
 
-**LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models**
+**LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models**  
 Victor Dibia  
 [ACL 2023 Demo](https://arxiv.org/pdf/2303.02927) • [Code](https://github.com/microsoft/lida)
 
