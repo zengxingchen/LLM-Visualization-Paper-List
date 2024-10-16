@@ -327,6 +327,10 @@ Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng
 Can Liu, Ruike Jiang, Shaocong Tan, Jiacheng Yu, Chaofan Yang, Hanning Shao, Xiaoru Yuan  
 [arXiv, 23 Jul 2024](https://arxiv.org/pdf/2407.16351) 
 
+**Foundation models meet visualizations: Challenges and opportunities**  
+Weikai Yang, Mengchen Liu, Zheng Wang, Shixia Liu  
+[CVM 2024](https://link.springer.com/article/10.1007/s41095-023-0393-x)
+
 **From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures**  
 Jiani Huang, Haihua Chen, Fengchang Yu, Wei Lu  
 [ACM Computing Surveys 2024](https://dl.acm.org/doi/pdf/10.1145/3657285)
