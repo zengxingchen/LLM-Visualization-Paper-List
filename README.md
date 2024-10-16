@@ -295,6 +295,10 @@ Nada Hussein, Asma Ghandeharioun, Ryan Mullins, Emily Reif, Jimbo Wilson, Nithum
 Shawn Simister  
 [VISxAI Workshop 2024 & Demo](https://www.explainprompt.com/)
 
+**Attentionviz: A global view of transformer attention**  
+Catherine Yeh, Yida Chen, Aoyu Wu, Cynthia Chen, Fernanda Viégas, Martin Wattenberg  
+[VIS 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10297591) • [Demo](http://attentionviz.com)
+
 **Do Machine Learning Models Memorize or Generalize?**  
 Adam Pearce, Asma Ghandeharioun, Nada Hussein, Nithum Thain, Martin Wattenberg and Lucas Dixon  
 [VISxAI Workshop 2023 & Demo](https://pair.withgoogle.com/explorables/grokking/)
