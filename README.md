@@ -219,6 +219,9 @@ Liwenhan Xie, Chengbo Zheng, Haijun Xia, Huamin Qu, Chen Zhu-Tian
 Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Bremer  
 [EuroVis 2024](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.15093)  
 
+**AVA: An automated and AI-driven intelligent visual analytics framework**  
+Jiazhe Wang, Xi Li, Chenlu Li, Di Peng, Arran Zeyu Wang, Yuhui Gu, Xingui Lai, Haifeng Zhang, Xinyue Xu, Xiaoqing Dong, Zhifeng Lin, Jiehui Zhou, Xingyu Liu, Wei Chen  
+[Visual Informatics 2024]
 
 ## 7. Empirical Study on LLM's Chart Understanding & Chart Generation 
 **How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**  
