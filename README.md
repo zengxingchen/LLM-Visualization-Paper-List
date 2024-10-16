@@ -3,7 +3,7 @@
 - Content
   - [0. Why am I curating this repository?](#0-why-am-i-curating-this-repository)
   - [1. Chart Captioning](#1-chart-captioning)
-  - [2. Chart Question Answering](#2-chart-question-answering)
+  - [🔥 2. Chart Question Answering](#2-chart-question-answering)
     - [2.0 Data, Model](#20-data-model)
     - [2.1 Benchmark](#21-benchmark)
   - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
@@ -13,7 +13,7 @@
     - [5.1 Design Preferences](#51-design-preferences)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
   - [7. Empirical Study on LLM's Chart Understanding & Chart Generation](#7-empirical-study-on-llms-chart-understanding--chart-generation)
-  - [8. Visualization for Interpreting, Evaluating, and Improving LLM](#8-visualization-for-interpreting-evaluating-and-improving-llm)
+  - [🔥 8. Visualization for Interpreting, Evaluating, and Improving LLM](#8-visualization-for-interpreting-evaluating-and-improving-llm)
   - [9. Generic Multimodal Large Language Model](#9-generic-multimodal-large-language-model)
   - [10. Related Survey Papers](#10-related-survey-papers)
 
@@ -38,7 +38,7 @@ Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, En
 [ACL 2022](https://aclanthology.org/2022.acl-long.277.pdf) • [Code](https://github.com/vis-nlp/Chart-to-text)
 
 
-## 2. Chart Question Answering
+##  2. Chart Question Answering
 
 
 ### 2.0 Data, Model
