@@ -216,6 +216,10 @@ Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cin
 Alexander Bendeck, John Stasko  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670574)
 
+**Visualization Literacy of Multimodal Large Language Models: A Comparative Study**  
+Zhimin Li, Haichao Miao, Valerio Pascucci, Shusen Liu  
+[arXiv 24 Jun 2024](https://arxiv.org/pdf/2407.10996)
+
 **Enhancing Data Literacy On-demand: LLMs as Guides for Novices in Chart Interpretation**  
 Kiroong Choe, Chaerin Lee, S. Lee, Jiwon Song, Aeri Cho, Nam Wook Kim, Jinwook Seo  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10555321)
