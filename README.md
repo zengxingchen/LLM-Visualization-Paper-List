@@ -190,7 +190,7 @@ Yuyu Luo, Jiawei Tang, Guoliang Li
 Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna Beyer  
 [EduVis 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10344146)  • [Code](https://github.com/GPT4VIS/GPT-4-CS171)
 
-**SNIL: Generating Sports News from Insights with Large Language Models** 
+**SNIL: Generating Sports News from Insights with Large Language Models** <br>
 Liqi Cheng, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, Yingcai Wu  
 [TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10507016)
 
