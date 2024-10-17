@@ -186,6 +186,11 @@ Yuyu Luo, Jiawei Tang, Guoliang Li
 
 
 ### 4.1 Application Scenarios
+
+**DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts** <br>
+Mohammed Saidul Islam, Enamul Hoque, Shafiq Joty, Md Tahmid Rahman Laskar, Md Rizwan Parvez <br>
+[EMNLP 2024](https://arxiv.org/pdf/2408.05346) • [Code](https://github.com/saidul-islam98/DataNarrative)
+
 **Beyond generating code: Evaluating gpt on a data visualization course**  
 Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna Beyer  
 [EduVis 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10344146)  • [Code](https://github.com/GPT4VIS/GPT-4-CS171)
@@ -194,9 +199,6 @@ Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna
 Liqi Cheng, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, Yingcai Wu  
 [TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10507016)
 
-**DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts** <br>
-Mohammed Saidul Islam, Enamul Hoque, Shafiq Joty, Md Tahmid Rahman Laskar, Md Rizwan Parvez <br>
-[EMNLP 2024](https://arxiv.org/pdf/2408.05346) • [Code](https://github.com/saidul-islam98/DataNarrative)
 
 ## 5. Visualization Design
 ### 5.0 Color
