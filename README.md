@@ -246,6 +246,10 @@ Shusen Liu, Haichao Miao, Zhimin Li, Matthew Olson, Valerio Pascucci, P‐T Brem
 Jiazhe Wang, Xi Li, Chenlu Li, Di Peng, Arran Zeyu Wang, Yuhui Gu, Xingui Lai, Haifeng Zhang, Xinyue Xu, Xiaoqing Dong, Zhifeng Lin, Jiehui Zhou, Xingyu Liu, Wei Chen  
 [Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000226)
 
+**LEVA: Using large language models to enhance visual analytics** <be>
+Yuheng Zhao, Yixing Zhang, Yu Zhang, Xinyi Zhao, Junjie Wang, Zekai Shao, Cagatay Turkay, Siming Chen <br>
+[TVCG 2024](https://arxiv.org/pdf/2403.05816)
+
 ## 7. Empirical Study on LLM's Chart Understanding & Chart Generation 
 **How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**  
 Huichen Will Wang, Jane Hoffswell, Sao Myat Thazin Thane, Victor S Bursztyn, Cindy Xiong Bearfield  
@@ -367,3 +371,4 @@ Leixian Shen, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Z
 **VisAnatomy: An SVG Chart Corpus with Fine-Grained Semantic Labels** <br>
 Chen Chen, Hannah K. Bako, Peihong Yu, John Hooker, Jeffrey Joyal, Simon C. Wang, Samuel Kim, Jessica Wu, Aoxue Ding, Lara Sandeep, Alex Chen, Chayanika Sinha, Zhicheng Liu <br>
 [arXiv, 16 Oct 2024](https://arxiv.org/pdf/2410.12268)  • [Homepage](https://visanatomy.github.io/)
+
