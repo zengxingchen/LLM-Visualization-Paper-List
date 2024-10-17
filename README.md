@@ -12,7 +12,7 @@
   - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
      - [4.0 Method, Framework, and Benchmark](#40-method-framework-and-benchmark)
-     - [4.1 Application Scenarios](#41-application-scenarios)
+     - [4.1 Application Scenarios (e.g., Storytelling)](#41-application-scenarios)
   - [5. Visualization Design](#5-visualization-design)
     - [5.0 Color](#50-color)
     - [5.1 Design Preferences](#51-design-preferences)
@@ -194,7 +194,9 @@ Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna
 Liqi Cheng, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, Yingcai Wu  
 [TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10507016)
 
-
+**DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts** <br>
+Mohammed Saidul Islam, Enamul Hoque, Shafiq Joty, Md Tahmid Rahman Laskar, Md Rizwan Parvez <br>
+[EMNLP 2024](https://arxiv.org/pdf/2408.05346) • [Code](https://github.com/saidul-islam98/DataNarrative)
 
 ## 5. Visualization Design
 ### 5.0 Color
