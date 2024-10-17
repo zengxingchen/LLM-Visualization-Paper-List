@@ -22,6 +22,7 @@
   - [🔥 8. Visualization for Interpreting, Evaluating, and Improving LLM](#8-visualization-for-interpreting-evaluating-and-improving-llm)
   - [9. Generic Multimodal Large Language Model](#9-generic-multimodal-large-language-model)
   - [10. Related Survey Papers](#10-related-survey-papers)
+  - [11. Others](#11-others)
 
 ## 0. Why am I curating this repository?
 - I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
@@ -362,5 +363,7 @@ Leixian Shen, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Z
 [TVCG 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9699035)
 
 
-
-
+## 11. Others
+**VisAnatomy: An SVG Chart Corpus with Fine-Grained Semantic Labels** <br>
+Chen Chen, Hannah K. Bako, Peihong Yu, John Hooker, Jeffrey Joyal, Simon C. Wang, Samuel Kim, Jessica Wu, Aoxue Ding, Lara Sandeep, Alex Chen, Chayanika Sinha, Zhicheng Liu <br>
+[arXiv, 16 Oct 2024](https://arxiv.org/pdf/2410.12268)  • [Homepage](https://visanatomy.github.io/)
