@@ -59,6 +59,12 @@ Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
 [arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
 
+
+**ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild** <br>
+Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty <br>
+[arXiv, 4 Jul 2024](https://arxiv.org/pdf/2407.04172) • [Code](https://github.com/vis-nlp/ChartGemma)
+
+
 **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**  
 Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, Fei Huang  
 [arXiv, 25 Apr 2024](https://arxiv.org/pdf/2404.16635) • [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
