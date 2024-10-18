@@ -98,7 +98,7 @@ Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar
 [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Synthesize_Step-by-Step_Tools_Templates_and_LLMs_as_Data_Generators_for_CVPR_2024_paper.pdf)
 
 **Chartllama: A multimodal llm for chart understanding and generation**  
-Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo  
+Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang <br>
 [arXiv, 27 Nov 2023](https://arxiv.org/pdf/2311.16483) • [Homepage](https://tingxueronghua.github.io/ChartLlama/)
 
 --- Pre-LLM --- 
