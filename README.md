@@ -60,6 +60,9 @@ Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li
 Zhengzhuo Xu, Bowen Qu, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
 [arXiv, 5 Sep 2024](https://arxiv.org/abs/2409.03277) • [Code](https://chartmoe.github.io/)
 
+**On Pre-training of Multimodal Language Models Customized for Chart Understanding** <br>
+Wan-Cyuan Fan, Yen-Chun Chen, Mengchen Liu, Lu Yuan, Leonid Sigal <br>
+[arXiv, 19 Jul 2024](https://arxiv.org/abs/2407.14506)
 
 **ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild** <br>
 Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty <br>
