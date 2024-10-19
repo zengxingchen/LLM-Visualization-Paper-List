@@ -9,6 +9,7 @@
   - [🔥 2. Chart Question Answering](#2-chart-question-answering)
     - [2.0 Data, Model](#20-data-model)
     - [2.1 Benchmark](#21-benchmark)
+    - [2.3 Application Scenarios (e.g., Accessibility)](#23-application-scenarios)
   - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
      - [4.0 Method, Framework, and Benchmark](#40-method-framework-and-benchmark)
@@ -146,6 +147,10 @@ Pritha Ganguly, Nitesh Methani, Mitesh Khapra, Pratyush Kumar
 Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan  
 [CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf) • [Code](https://github.com/kushalkafle/DVQA_dataset)
 
+### 2.3 Application Scenarios
+**VizAbility: Enhancing Chart Accessibility with LLM-based Conversational Interaction** <br>
+Joshua Gorniak, Yoon Kim, Donglai Wei, Nam Wook Kim <br>
+[UIST 2024](https://dl.acm.org/doi/abs/10.1145/3654777.3676414)
 
 ## 3. Chart Reverse Engineering
 **ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation**  
