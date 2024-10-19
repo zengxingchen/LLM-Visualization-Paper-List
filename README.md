@@ -163,6 +163,10 @@ Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Ji
 Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, Haotian Li, Chi-Wing Fu, Huamin Qu  
 [TVCG 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9395231)
 
+**Chartem: Reviving Chart Images with Data Embedding** <br>
+Jiayun Fu, Bin Zhu, Weiwei Cui, Song Ge, Yun Wang, Haidong Zhang, He Huang, Yuanyuan Tang, Dongmei Zhang, and Xiaojing Ma <br>
+[TVCG 2021](https://ieeexplore.ieee.org/abstract/document/9293003)
+
 **Reverse‐engineering visualizations: Recovering visual encodings from chart images**  
 Jorge Poco and Jeffrey Heer  
 [EuroVis 2017](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13193)
