@@ -158,6 +158,9 @@ Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Ji
 [arXiv, 14 Jun 2024](https://arxiv.org/pdf/2406.09961) • [Homepage](https://chartmimic.github.io/)
 
 --- Pre-LLM ---  
+**InvVis: Large-scale data embedding for invertible visualization** <br>
+Huayuan Ye, Chenhui Li, Yang Li and Changbo Wang <br>
+[VIS 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10290968)
 
 **Deep colormap extraction from visualizations**  
 Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, Haotian Li, Chi-Wing Fu, Huamin Qu  
@@ -166,6 +169,8 @@ Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, Haotian Li, Chi-Wing Fu, Huami
 **Chartem: Reviving Chart Images with Data Embedding** <br>
 Jiayun Fu, Bin Zhu, Weiwei Cui, Song Ge, Yun Wang, Haidong Zhang, He Huang, Yuanyuan Tang, Dongmei Zhang, and Xiaojing Ma <br>
 [TVCG 2021](https://ieeexplore.ieee.org/abstract/document/9293003)
+
+
 
 **Reverse‐engineering visualizations: Recovering visual encodings from chart images**  
 Jorge Poco and Jeffrey Heer  
