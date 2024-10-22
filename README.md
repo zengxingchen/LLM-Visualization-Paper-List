@@ -357,6 +357,11 @@ Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie <br>
 [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Tong_Eyes_Wide_Shut_Exploring_the_Visual_Shortcomings_of_Multimodal_LLMs_CVPR_2024_paper.pdf)
 
 ## 10. Related Survey Papers
+**Natural Language Generation for Visualizations: State of the Art, Challenges and Future Directions** <br>
+Enamul Hoque, Mohammed Saidul Islam <br>
+[arXiv, 29 Sep 2024](https://arxiv.org/pdf/2409.19747) 
+
+
 **Generative AI for visualization: State of the art and future directions**  
 Yilin Ye, Jianing Hao, Yihan Hou, Zhan Wang, Shishi Xiao, Yuyu Luo, Wei Zeng  
 [Visual Informatics 2024](https://www.sciencedirect.com/science/article/pii/S2468502X24000160)
