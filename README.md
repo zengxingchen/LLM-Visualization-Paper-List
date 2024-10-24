@@ -409,3 +409,7 @@ Leixian Shen, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Z
 Chen Chen, Hannah K. Bako, Peihong Yu, John Hooker, Jeffrey Joyal, Simon C. Wang, Samuel Kim, Jessica Wu, Aoxue Ding, Lara Sandeep, Alex Chen, Chayanika Sinha, Zhicheng Liu <br>
 [arXiv, 16 Oct 2024](https://arxiv.org/pdf/2410.12268)  • [Homepage](https://visanatomy.github.io/)
 
+**Multimodal Chart Retrieval: A Comparison of Text, Table and Image Based Approaches** <br>
+Averi Nowak, Francesco Piccinno, Yasemin Altun <br>
+[NAACL 2024](https://aclanthology.org/2024.naacl-long.307/)
+
