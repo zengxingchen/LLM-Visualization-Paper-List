@@ -52,6 +52,14 @@ Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, En
 
 
 ### 2.0 Data, Model
+**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**  
+Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
+[VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
+
+**Distill Visual Chart Reasoning Ability from LLMs to MLLMs** <br>
+Wei He, Zhiheng Xi, Wanxu Zhao, Xiaoran Fan, Yiwen Ding, Zifei Shan, Tao Gui, Qi Zhang, Xuanjing Huang <br>
+[arXiv, 24 Oct 2024](https://arxiv.org/abs/2410.18798)
+
 **SynChart: Synthesizing Charts from Language Models**  
 Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li  
 [arXiv, 25 Sep 2024](https://arxiv.org/abs/2409.16517)
@@ -77,9 +85,6 @@ Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, 
 Jinyue Chen*, Lingyu Kong*, Haoran Wei, Chenglong Liu, Zheng Ge, Liang Zhao, Jianjian Sun, Chunrui Han, Xiangyu Zhang  
 [ACM MM 2024 (Oral)](https://arxiv.org/pdf/2404.09987) • [Homepage](https://onechartt.github.io/)
 
-**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**  
-Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
-[VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
 **Representing Charts as Text for Language Models: An In-Depth Study of Question Answering for Bar Charts**  
 Victor Soares Bursztyn, Jane Hoffswell, Eunyee Koh, Shunan Guo  
