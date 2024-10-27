@@ -58,7 +58,7 @@ Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng
 
 **Distill Visual Chart Reasoning Ability from LLMs to MLLMs** <br>
 Wei He, Zhiheng Xi, Wanxu Zhao, Xiaoran Fan, Yiwen Ding, Zifei Shan, Tao Gui, Qi Zhang, Xuanjing Huang <br>
-[arXiv, 24 Oct 2024](https://arxiv.org/abs/2410.18798)
+[arXiv, 24 Oct 2024](https://arxiv.org/abs/2410.18798) • [Code](https://github.com/hewei2001/ReachQA)
 
 **SynChart: Synthesizing Charts from Language Models**  
 Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li  
