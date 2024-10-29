@@ -345,10 +345,6 @@ Adam Pearce, Asma Ghandeharioun, Nada Hussein, Nithum Thain, Martin Wattenberg a
 ## 9. Generic Multimodal Large Language Model
 > Refer to [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) for a more comprehensive list. This repo only records papers that bring insights to **LLM**x**Vis**.
 
-**Law of Vision Representation in MLLMs** <br>
-Shijia Yang, Bohan Zhai, Quanzeng You, Jianbo Yuan, Hongxia Yang, Chenfeng Xu <br>
-[arXiv, 29 Aug 2024](https://arxiv.org/pdf/2408.16357)
-
 **ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models** <br>
 Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Guannan Jiang, Xiaoshuai Sun, Rongrong Ji <br>
 [NIPS 2024](https://arxiv.org/pdf/2407.21534) • [Code](https://github.com/mrwu-mac/ControlMLLM)
@@ -357,6 +353,10 @@ Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Gua
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
+
+**Law of Vision Representation in MLLMs** <br>
+Shijia Yang, Bohan Zhai, Quanzeng You, Jianbo Yuan, Hongxia Yang, Chenfeng Xu <br>
+[arXiv, 29 Aug 2024](https://arxiv.org/pdf/2408.16357)
 
 **EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**  
 Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi, Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu  
