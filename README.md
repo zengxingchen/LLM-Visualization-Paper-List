@@ -370,6 +370,10 @@ Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai C
 Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie <br>
 [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Tong_Eyes_Wide_Shut_Exploring_the_Visual_Shortcomings_of_Multimodal_LLMs_CVPR_2024_paper.pdf)
 
+**InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** <br>
+Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai <br>
+[CVPR 2024](https://arxiv.org/abs/2312.14238)
+
 ## 10. Related Survey Papers
 **Natural Language Generation for Visualizations: State of the Art, Challenges and Future Directions** <br>
 Enamul Hoque, Mohammed Saidul Islam <br>
