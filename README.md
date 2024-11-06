@@ -350,10 +350,6 @@ Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Gua
 [NIPS 2024](https://arxiv.org/pdf/2407.21534) • [Code](https://github.com/mrwu-mac/ControlMLLM)
 
 
-**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models** <br>
-Linli Yao, Lei Li, Shuhuai Ren, Lean Wang, Yuanxin Liu, Xu Sun, Lu Hou <br>
-[NIPS 2024](https://arxiv.org/abs/2405.20985) • [Code](https://github.com/yaolinli/DeCo)
-
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
@@ -369,6 +365,11 @@ Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An
 **Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**  
 Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie  
 [arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/cambrian-mllm/cambrian)
+
+**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models** <br>
+Linli Yao, Lei Li, Shuhuai Ren, Lean Wang, Yuanxin Liu, Xu Sun, Lu Hou <br>
+[arXiv, 31 May 2024](https://arxiv.org/abs/2405.20985) • [Code](https://github.com/yaolinli/DeCo)
+
 
 **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs** <br>
 Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie <br>
