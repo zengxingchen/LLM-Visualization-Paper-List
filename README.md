@@ -314,6 +314,10 @@ Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu
 ## 8. Visualization for Interpreting, Evaluating, and Improving LLM
 > If you are interested in this topic, you can find some interesting interactive papers/demos in the [VISxAI workshop](https://visxai.io/).
 
+**LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models** <br>
+Gabriela Ben Melech Stan, Estelle Aflalo, Raanan Yehezkel Rohekar, Anahita Bhiwandiwalla, Shao-Yen Tseng, Matthew Lyle Olson, Yaniv Gurwicz, Chenfei Wu, Nan Duan, Vasudev Lal <br>
+[arXiv, 3 Apr 2024](https://arxiv.org/abs/2404.03118) • [Homepage](https://intellabs.github.io/multimodal_cognitive_ai/lvlm_interpret/)
+
 **LLM Comparator: Interactive Analysis of Side-by-Side Evaluation of Large Language Models**  
 Minsuk Kahng, Ian Tenney, Mahima Pushkarna, Michael Xieyang Liu, James Wexler, Emily Reif, Krystal Kallarackal, Minsuk Chang, Michael Terry, and Lucas Dixon  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10670495)  • [Code](https://github.com/PAIR-code/llm-comparator) • [Demo](https://pair-code.github.io/llm-comparator/)
