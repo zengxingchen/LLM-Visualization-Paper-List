@@ -383,6 +383,9 @@ Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie <br>
 Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai <br>
 [CVPR 2024](https://arxiv.org/abs/2312.14238)
 
+**Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic** <br>
+[arXiv, 27 Jun 2023](https://arxiv.org/abs/2306.15195) • [Code](https://github.com/shikras/shikra)
+
 ## 10. Related Survey Papers
 **Natural Language Generation for Visualizations: State of the Art, Challenges and Future Directions** <br>
 Enamul Hoque, Mohammed Saidul Islam <br>
