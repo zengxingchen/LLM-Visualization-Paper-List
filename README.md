@@ -165,6 +165,13 @@ Joshua Gorniak, Yoon Kim, Donglai Wei, Nam Wook Kim <br>
 Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang  
 [arXiv, 14 Jun 2024](https://arxiv.org/pdf/2406.09961) • [Homepage](https://chartmimic.github.io/)
 
+**Is GPT-4V (ision) All You Need for Automating Academic Data Visualization? Exploring Vision-Language Models’ Capability in Reproducing Academic Charts** <br>
+Zhehao Zhang, Weicheng Ma, Soroush Vosoughi <br>
+[EMNLP2024 Findings](https://aclanthology.org/2024.findings-emnlp.485.pdf)  • [Code](https://github.com/zzh-SJTU/AcademiaChart)
+
+
+
+
 --- Pre-LLM ---  
 **InvVis: Large-scale data embedding for invertible visualization** <br>
 Huayuan Ye, Chenhui Li, Yang Li and Changbo Wang <br>
