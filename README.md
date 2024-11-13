@@ -79,7 +79,7 @@ Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq J
 
 **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**  
 Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, Fei Huang  
-[arXiv, 25 Apr 2024](https://arxiv.org/pdf/2404.16635) • [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
+[EMNLP 2024](https://arxiv.org/pdf/2404.16635) • [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
 
 **OneChart: Purify the Chart Structural Extraction via One Auxiliary Token**  
 Jinyue Chen*, Lingyu Kong*, Haoran Wei, Chenglong Liu, Zheng Ge, Liang Zhao, Jianjian Sun, Chunrui Han, Xiangyu Zhang  
