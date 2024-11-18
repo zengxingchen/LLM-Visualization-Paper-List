@@ -155,6 +155,9 @@ Pritha Ganguly, Nitesh Methani, Mitesh Khapra, Pratyush Kumar
 Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan  
 [CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf) • [Code](https://github.com/kushalkafle/DVQA_dataset)
 
+FigureQA: An Annotated Figure Dataset for Visual Reasoning
+[ICLR 2018 Workshop track](https://arxiv.org/pdf/1710.07300) • [Code](https://github.com/vmichals/FigureQA-baseline)
+
 ### 2.3 Application Scenarios
 **VizAbility: Enhancing Chart Accessibility with LLM-based Conversational Interaction** <br>
 Joshua Gorniak, Yoon Kim, Donglai Wei, Nam Wook Kim <br>
