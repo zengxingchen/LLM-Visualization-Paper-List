@@ -26,12 +26,11 @@
   - [11. Others](#11-others)
 
 ## 0. Why am I curating this repository?
-- I've found that the **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
+- I've found that the existing **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
 - Feel free to open an issue or a pull request to add a new paper you appreciate.
-- Papers under the same category are recorded in reverse chronological order.
 - **Star and watch this repo for future updates 😁.**
 - **Strongly recommend the tutorial [LLM4Vis: Large Language Models for Information Visualization](https://nlp4vis.github.io/) delivered by Prof. Hoque.**
-  
+- Papers under the same category are recorded in reverse chronological order.
 ## 1. Chart Captioning
 
 **Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models**  
