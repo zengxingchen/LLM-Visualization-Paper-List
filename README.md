@@ -146,8 +146,12 @@ Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo
 Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque  
 [Findings of ACL 2022](https://aclanthology.org/2022.findings-acl.177.pdf) • [Code](https://github.com/vis-nlp/chartqa)
 
-**PlotQA: Reasoning over Scientific Plots**  
-Pritha Ganguly, Nitesh Methani, Mitesh Khapra, Pratyush Kumar  
+**InfographicVQA** <br>
+Minesh Mathew, Viraj Bagal, Rubèn Pérez Tito, Dimosthenis Karatzas, Ernest Valveny, C.V Jawahar <br>
+[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/papers/Mathew_InfographicVQA_WACV_2022_paper.pdf)  • [Homepage](https://www.docvqa.org/datasets/infographicvqa)
+
+**PlotQA: Reasoning over Scientific Plots**  <br>
+Pritha Ganguly, Nitesh Methani, Mitesh Khapra, Pratyush Kumar  <br>
 [WACV 2020](https://arxiv.org/pdf/1909.00997.pdf) • [Code](https://github.com/NiteshMethani/PlotQA)
 
 **Dvqa: Understanding data visualizations via question answering**  
