@@ -400,11 +400,6 @@ Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Q
 [arXiv, 27 Jun 2023](https://arxiv.org/abs/2306.15195) • [Code](https://github.com/shikras/shikra)
 
 ## 10. Related Survey Papers
-
-**Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey** <br>
-Weixu Zhang, Yifei Wang, Yuanfeng Song, Victor Junqiu Wei, Yuxing Tian, Yiyan Qi, Jonathan H. Chan, Raymond Chi-Wing Wong, Haiqin Yang <br>
-[arXiv, 27 Oct 2023](https://arxiv.org/pdf/2310.17894) 
-
 **Natural Language Generation for Visualizations: State of the Art, Challenges and Future Directions** <br>
 Enamul Hoque, Mohammed Saidul Islam <br>
 [arXiv, 29 Sep 2024](https://arxiv.org/pdf/2409.19747) 
@@ -432,6 +427,10 @@ Kung-Hsiang Huang, Hou Pong Chan, Yi R. Fung, Haoyi Qiu, Mingyang Zhou, Shafiq J
 **Leveraging large models for crafting narrative visualization: a survey**  
 Yi He, Shixiong Cao, Yang Shi, Qing Chen, Ke Xu, Nan Cao  
 [arXiv, 25 Jan 2024](https://arxiv.org/pdf/2401.14010)
+
+**Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey** <br>
+Weixu Zhang, Yifei Wang, Yuanfeng Song, Victor Junqiu Wei, Yuxing Tian, Yiyan Qi, Jonathan H. Chan, Raymond Chi-Wing Wong, Haiqin Yang <br>
+[arXiv, 27 Oct 2023](https://arxiv.org/pdf/2310.17894) 
 
 **AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization**  
 Aoyu Wu, Yun Wang, Xinhuan Shu, Dominik Moritz, Weiwei Cui, Haidong Zhang, Dongmei Zhang, and Huamin Qu  
