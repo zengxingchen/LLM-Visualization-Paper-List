@@ -245,7 +245,8 @@ Liqi Cheng, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, Yingcai Wu
 
 ## 5. Visualization Design
 ### 5.0 Color
-**Large Language Models estimate fine-grained human color-concept associations**  
+**Large Language Models estimate fine-grained human color-concept associations** <br>
+Kushin Mukherjee, Timothy T. Rogers, Karen B. Schloss <br>
 [arXiv, 4 May 2024](https://arxiv.org/abs/2406.17781)
 
 **NL2Color: Refining Color Palettes for Charts with Natural Language**  
