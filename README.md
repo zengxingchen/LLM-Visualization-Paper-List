@@ -200,6 +200,11 @@ Jorge Poco and Jeffrey Heer
 
 ## 4. Natural Language to Visualization
 ### 4.0 Method, Framework, and Benchmark
+
+**ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM** <br>
+Songheng Zhang, Lei Wang, Toby Jia-Jun Li, Qiaomu Shen, Yixin Cao, Yong Wang <br>
+[arXiv, 7 Nov 2024](https://arxiv.org/pdf/2410.14331)
+
 **VisEval: A benchmark for data visualization in the era of large language models**  
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [Code](https://github.com/microsoft/VisEval)
