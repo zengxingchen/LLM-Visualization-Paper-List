@@ -232,6 +232,9 @@ Yuyu Luo, Nan Tang, Guoliang Li, Jiawei Tang, Chengliang Chai, Xuedi Qin
 Yuyu Luo, Jiawei Tang, Guoliang Li  
 [Workshop on NL VIZ 2021 at IEEE VIS 2021](https://arxiv.org/pdf/2112.12926) • [Code](https://github.com/TsinghuaDatabaseGroup/nvBench)
 
+**Table2Charts: Recommending Charts by Learning Shared Table Representations** <br>
+Zhou, Mengyu and Li, Qingtao and He, Xinyi and Li, Yuejiang and Liu, Yibo and Ji, Wei and Han, Shi and Chen, Yining and Jiang, Daxin and Zhang, Dongmei <br>
+[KDD 2021](https://dl.acm.org/doi/pdf/10.1145/3447548.3467279) • [Code](https://github.com/microsoft/Table2Charts)
 
 ### 4.1 Application Scenarios
 
