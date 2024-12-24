@@ -123,6 +123,10 @@ Fangyu Liu, Julian Martin Eisenschlos, Francesco Piccinno, Syrine Krichene, Chen
 Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Martin Eisenschlos  
 [ACL 2023](https://aclanthology.org/2023.acl-long.714.pdf) • [Code](https://github.com/google-research/google-research/tree/master/deplot)
 
+**LEAF-QA: Locate, Encode & Attend for Figure Question Answering** <br>
+haudhry, Ritwick and Shekhar, Sumit and Gupta, Utkarsh and Maneriker, Pranav and Bansal, Prann and Joshi, Ajay <br>
+[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/papers/Chaudhry_LEAF-QA_Locate_Encode__Attend_for_Figure_Question_Answering_WACV_2020_paper.pdf)
+
 
 ### 2.1 Benchmark
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
