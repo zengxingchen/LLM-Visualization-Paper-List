@@ -75,7 +75,6 @@ Wan-Cyuan Fan, Yen-Chun Chen, Mengchen Liu, Lu Yuan, Leonid Sigal <br>
 Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty <br>
 [arXiv, 4 Jul 2024](https://arxiv.org/pdf/2407.04172) • [Code](https://github.com/vis-nlp/ChartGemma)
 
-
 **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**  
 Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, Fei Huang  
 [EMNLP 2024](https://arxiv.org/pdf/2404.16635) • [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart)
@@ -100,6 +99,10 @@ Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Lu
 **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning**  
 Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu  
 [NAACL 2024](https://aclanthology.org/2024.naacl-long.70.pdf) • [Code](https://github.com/FuxiaoLiu/MMC)
+
+**Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs** <br>
+Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma<br>
+[NAACL'24 Findings](https://arxiv.org/pdf/2403.12596)
 
 **Synthesize Step-by-Step: Tools Templates and LLMs as Data Generators for Reasoning-Based Chart VQA**  
 Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar  
