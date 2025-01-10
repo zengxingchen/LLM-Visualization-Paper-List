@@ -55,6 +55,10 @@ Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, En
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
 [VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
+**AskChart: Universal Chart Understanding through Textual Enhancement**  
+Xudong Yang, Yifan Wu, Yizhang Zhu, Nan Tang, Yuyu Luo <br>
+[arXiv, 26 Dec 2024](https://arxiv.org/abs/2412.19146)
+
 **Distill Visual Chart Reasoning Ability from LLMs to MLLMs** <br>
 Wei He, Zhiheng Xi, Wanxu Zhao, Xiaoran Fan, Yiwen Ding, Zifei Shan, Tao Gui, Qi Zhang, Xuanjing Huang <br>
 [arXiv, 24 Oct 2024](https://arxiv.org/abs/2410.18798) • [Code](https://github.com/hewei2001/ReachQA)
