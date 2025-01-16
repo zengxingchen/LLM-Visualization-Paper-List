@@ -179,6 +179,10 @@ Joshua Gorniak, Yoon Kim, Donglai Wei, Nam Wook Kim <br>
 [UIST 2024](https://dl.acm.org/doi/abs/10.1145/3654777.3676414)
 
 ## 3. Chart Reverse Engineering
+**ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation** <br>
+Xuanle Zhao, Xianzhen Luo, Qi Shi, Chi Chen, Shuo Wang, Wanxiang Che, Zhiyuan Liu, Maosong Sun <br>
+[arXivc, 11 Jan 2025](https://arxiv.org/abs/2501.06598)
+
 **ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation**  
 Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang  
 [arXiv, 14 Jun 2024](https://arxiv.org/pdf/2406.09961) • [Homepage](https://chartmimic.github.io/)
