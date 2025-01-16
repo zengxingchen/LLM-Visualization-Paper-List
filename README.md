@@ -187,6 +187,10 @@ Xuanle Zhao, Xianzhen Luo, Qi Shi, Chi Chen, Shuo Wang, Wanxiang Che, Zhiyuan Li
 Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang  
 [arXiv, 14 Jun 2024](https://arxiv.org/pdf/2406.09961) • [Homepage](https://chartmimic.github.io/)
 
+**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots**
+Chengyue Wu, Yixiao Ge, Qiushan Guo, Jiahao Wang, Zhixuan Liang, Zeyu Lu, Ying Shan, Ping Luo <br>
+[arXiv, 13 May 2024](https://arxiv.org/pdf/2405.07990)
+
 **Is GPT-4V (ision) All You Need for Automating Academic Data Visualization? Exploring Vision-Language Models’ Capability in Reproducing Academic Charts** <br>
 Zhehao Zhang, Weicheng Ma, Soroush Vosoughi <br>
 [EMNLP2024 Findings](https://aclanthology.org/2024.findings-emnlp.485.pdf)  • [Code](https://github.com/zzh-SJTU/AcademiaChart)
