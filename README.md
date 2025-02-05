@@ -67,7 +67,7 @@ Wei He, Zhiheng Xi, Wanxu Zhao, Xiaoran Fan, Yiwen Ding, Zifei Shan, Tao Gui, Qi
 Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li  
 [arXiv, 25 Sep 2024](https://arxiv.org/abs/2409.16517)
 
-**ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding**   
+**ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding**   
 Zhengzhuo Xu*, Bowen Qu*, Yiyan Qi*, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
 [ICLR 2025](https://arxiv.org/abs/2409.03277) • [Code](https://github.com/IDEA-FinAI/ChartMoE)
 
