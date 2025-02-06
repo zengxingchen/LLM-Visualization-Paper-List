@@ -10,7 +10,7 @@
     - [2.0 Data, Model](#20-data-model)
     - [2.1 Benchmark](#21-benchmark)
     - [2.3 Application Scenarios (e.g., Accessibility)](#23-application-scenarios)
-  - [3. Chart Reverse Engineering](#3-chart-reverse-engineering)
+  - [3. Chart Reverse Engineering & Chart-to-Code Translation](#3-chart-reverse-engineering)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
      - [4.0 Method, Framework, and Benchmark](#40-method-framework-and-benchmark)
      - [4.1 Application Scenarios (e.g., Storytelling)](#41-application-scenarios)
@@ -19,11 +19,11 @@
     - [5.1 Design Preferences](#51-design-preferences)
     - [5.2 User-Adaptive Visualization](#52-user-adaptive-visualization)
   - [6. Visualization Agents & Automatic Judge](#6-visualization-agents--automatic-judge)
-  - [7. Empirical Study on LLM's Chart Understanding & Chart Generation](#7-empirical-study-on-llms-chart-understanding--chart-generation)
+  - [7. HCI-Style Empirical Study on LLM's Chart Understanding & Chart Generation](#7-empirical-study-on-llms-chart-understanding--chart-generation)
   - [🔥 8. Visualization for Interpreting, Evaluating, and Improving LLM](#8-visualization-for-interpreting-evaluating-and-improving-llm)
   - [9. Generic Multimodal Large Language Model](#9-generic-multimodal-large-language-model)
   - [10. Related Survey Papers](#10-related-survey-papers)
-  - [11. Others](#11-others)
+  - [11. Others (Chart Retrieval, Chart Component Detection)](#11-others)
 
 ## 0. Why am I curating this repository?
 - I've found that the existing **Vis**x**LLM** paper-list repositories are updated infrequently (they're more likely created for a survey paper and then abandoned). I will gradually enrich this repository and keep it updated.
@@ -483,3 +483,6 @@ Chen Chen, Hannah K. Bako, Peihong Yu, John Hooker, Jeffrey Joyal, Simon C. Wang
 Averi Nowak, Francesco Piccinno, Yasemin Altun <br>
 [NAACL 2024](https://aclanthology.org/2024.naacl-long.307/)
 
+**CACHED: Context-Aware Chart Element Detection** <br>
+Pengyu Yan*, Saleem Ahmed*, and David Doermann <br>
+[ICDAR 2023](https://arxiv.org/pdf/2410.12268) • [Code](https://github.com/pengyu965/ChartDete)
