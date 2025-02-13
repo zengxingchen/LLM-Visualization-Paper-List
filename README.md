@@ -211,11 +211,13 @@ Huayuan Ye, Chenhui Li, Yang Li and Changbo Wang <br>
 Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, Haotian Li, Chi-Wing Fu, Huamin Qu  
 [TVCG 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9395231)
 
+**ChartOCR: Data Extraction From Charts Images via a Deep Hybrid Framework** <br>
+Junyu Luo, Zekun Li, Jinpeng Wang, Chin-Yew Lin <br>
+[WACV2021](https://openaccess.thecvf.com/content/WACV2021/papers/Luo_ChartOCR_Data_Extraction_From_Charts_Images_via_a_Deep_Hybrid_WACV_2021_paper.pdf)
+
 **Chartem: Reviving Chart Images with Data Embedding** <br>
 Jiayun Fu, Bin Zhu, Weiwei Cui, Song Ge, Yun Wang, Haidong Zhang, He Huang, Yuanyuan Tang, Dongmei Zhang, and Xiaojing Ma <br>
 [TVCG 2021](https://ieeexplore.ieee.org/abstract/document/9293003)
-
-
 
 **Reverse‐engineering visualizations: Recovering visual encodings from chart images**  
 Jorge Poco and Jeffrey Heer  
