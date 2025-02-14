@@ -77,7 +77,7 @@ Wan-Cyuan Fan, Yen-Chun Chen, Mengchen Liu, Lu Yuan, Leonid Sigal <br>
 
 **ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild** <br>
 Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty <br>
-[arXiv, 4 Jul 2024](https://arxiv.org/pdf/2407.04172) • [Code](https://github.com/vis-nlp/ChartGemma)
+[COLING 2025 Industry Track](https://aclanthology.org/2025.coling-industry.54.pdf) • [Code](https://github.com/vis-nlp/ChartGemma)
 
 **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**  
 Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, Fei Huang  
