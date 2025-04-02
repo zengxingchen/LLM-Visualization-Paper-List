@@ -227,6 +227,14 @@ Jorge Poco and Jeffrey Heer
 ## 4. Natural Language to Visualization
 ### 4.0 Method, Framework, and Benchmark
 
+**nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow** <br>
+Geliang Ouyang, Jingyao Chen, Zhihe Nie, Yi Gui, Yao Wan, Hongyu Zhang, Dongping Chen <br>
+[arXiv, 7 Feb 2025](https://arxiv.org/pdf/2502.05036)
+
+**VisPath: Automated Visualization Code Synthesis via Multi-Path Reasoning and Feedback-Driven Optimization** <br>
+Wonduk Seo, Seungyong Lee, Daye Kang, Zonghao Yuan, Seunghyun Lee <br>
+[arXiv, 16 Feb 2025]](https://arxiv.org/pdf/2502.11140) 
+
 **ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM** <br>
 Songheng Zhang, Lei Wang, Toby Jia-Jun Li, Qiaomu Shen, Yixin Cao, Yong Wang <br>
 [arXiv, 7 Nov 2024](https://arxiv.org/pdf/2410.14331)
