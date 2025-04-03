@@ -226,7 +226,6 @@ Jorge Poco and Jeffrey Heer
 
 ## 4. Natural Language to Visualization
 ### 4.0 Method, Framework, and Benchmark
-
 **nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow** <br>
 Geliang Ouyang, Jingyao Chen, Zhihe Nie, Yi Gui, Yao Wan, Hongyu Zhang, Dongping Chen <br>
 [arXiv, 7 Feb 2025](https://arxiv.org/pdf/2502.05036)
@@ -238,6 +237,10 @@ Wonduk Seo, Seungyong Lee, Daye Kang, Zonghao Yuan, Seunghyun Lee <br>
 **ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM** <br>
 Songheng Zhang, Lei Wang, Toby Jia-Jun Li, Qiaomu Shen, Yixin Cao, Yong Wang <br>
 [arXiv, 7 Nov 2024](https://arxiv.org/pdf/2410.14331)
+
+**Charting the Future: Using Chart Question-Answering for Scalable Evaluation of LLM-Driven Data Visualizations** <br>
+James Ford, Xingmeng Zhao, Dan Schumacher, Anthony Rios <br>
+[arXiv, 27 Sep 2024](https://arxiv.org/pdf/2409.18764)
 
 **VisEval: A benchmark for data visualization in the era of large language models**  
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
@@ -271,6 +274,10 @@ Zhou, Mengyu and Li, Qingtao and He, Xinyi and Li, Yuejiang and Liu, Yibo and Ji
 [KDD 2021](https://dl.acm.org/doi/pdf/10.1145/3447548.3467279) • [Code](https://github.com/microsoft/Table2Charts)
 
 ### 4.1 Application Scenarios
+**Show and Tell: Exploring Large Language Model’s Potential in Formative Educational Assessment of Data Stories** <br>
+Naren Sivakumar, Lujie Karen Chen, Pravalika Papasani, Vigna Majmundar, Jinjuan Heidi Feng, Louise Yarnall <br>
+[2024 IEEE VIS Workshop on Data Storytelling in an Era of Generative AI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10766490)
+
 
 **DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts** <br>
 Mohammed Saidul Islam, Enamul Hoque, Shafiq Joty, Md Tahmid Rahman Laskar, Md Rizwan Parvez <br>
