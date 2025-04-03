@@ -207,6 +207,10 @@ Zhehao Zhang, Weicheng Ma, Soroush Vosoughi <br>
 Huayuan Ye, Chenhui Li, Yang Li and Changbo Wang <br>
 [VIS 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10290968)
 
+**CACHED: Context-Aware Chart Element Detection** <br>
+Pengyu Yan*, Saleem Ahmed*, and David Doermann <br>
+[ICDAR 2023](https://arxiv.org/pdf/2410.12268) • [Code](https://github.com/pengyu965/ChartDete)
+
 **Deep colormap extraction from visualizations**  
 Lin-Ping Yuan, Wei Zeng, Siwei Fu, Zhiliang Zeng, Haotian Li, Chi-Wing Fu, Huamin Qu  
 [TVCG 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9395231)
@@ -222,6 +226,8 @@ Jiayun Fu, Bin Zhu, Weiwei Cui, Song Ge, Yun Wang, Haidong Zhang, He Huang, Yuan
 **Reverse‐engineering visualizations: Recovering visual encodings from chart images**  
 Jorge Poco and Jeffrey Heer  
 [EuroVis 2017](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13193)
+
+
 
 
 ## 4. Natural Language to Visualization
@@ -504,6 +510,3 @@ Chen Chen, Hannah K. Bako, Peihong Yu, John Hooker, Jeffrey Joyal, Simon C. Wang
 Averi Nowak, Francesco Piccinno, Yasemin Altun <br>
 [NAACL 2024](https://aclanthology.org/2024.naacl-long.307/)
 
-**CACHED: Context-Aware Chart Element Detection** <br>
-Pengyu Yan*, Saleem Ahmed*, and David Doermann <br>
-[ICDAR 2023](https://arxiv.org/pdf/2410.12268) • [Code](https://github.com/pengyu965/ChartDete)
