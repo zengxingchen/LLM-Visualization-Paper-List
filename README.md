@@ -383,6 +383,11 @@ Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu
 ## 8. Visualization for Interpreting, Evaluating, and Improving LLM
 > If you are interested in this topic, you can find some interesting interactive papers/demos in the [VISxAI workshop](https://visxai.io/).
 
+**Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models** <br>
+Zhanke Zhou, Zhaocheng Zhu, Xuan Li, Mikhail Galkin, Xiao Feng, Sanmi Koyejo, Jian Tang, Bo Han <br>
+[arXiv, 28 Mar 2025]
+
+
 **LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models** <br>
 Gabriela Ben Melech Stan, Estelle Aflalo, Raanan Yehezkel Rohekar, Anahita Bhiwandiwalla, Shao-Yen Tseng, Matthew Lyle Olson, Yaniv Gurwicz, Chenfei Wu, Nan Duan, Vasudev Lal <br>
 [arXiv, 3 Apr 2024](https://arxiv.org/abs/2404.03118) • [Homepage](https://intellabs.github.io/multimodal_cognitive_ai/lvlm_interpret/)
