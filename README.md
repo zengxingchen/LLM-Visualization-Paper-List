@@ -183,6 +183,11 @@ Joshua Gorniak, Yoon Kim, Donglai Wei, Nam Wook Kim <br>
 [UIST 2024](https://dl.acm.org/doi/abs/10.1145/3654777.3676414)
 
 ## 3. Chart Reverse Engineering
+
+**Enhancing Chart-to-Code Generation in Multimodal Large Language Models via Iterative Dual Preference Learning** <br>
+Zhihan Zhang, Yixin Cao, Lizi Liao <br>
+[arXiv, 3 Apr 2025](https://arxiv.org/pdf/2504.02906) 
+
 **ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation** <br>
 Xuanle Zhao, Xianzhen Luo, Qi Shi, Chi Chen, Shuo Wang, Wanxiang Che, Zhiyuan Liu, Maosong Sun <br>
 [arXiv, 11 Jan 2025](https://arxiv.org/abs/2501.06598) • [Code](https://github.com/thunlp/ChartCoder)
