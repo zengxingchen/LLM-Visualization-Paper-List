@@ -243,7 +243,7 @@ Geliang Ouyang, Jingyao Chen, Zhihe Nie, Yi Gui, Yao Wan, Hongyu Zhang, Dongping
 
 **VisPath: Automated Visualization Code Synthesis via Multi-Path Reasoning and Feedback-Driven Optimization** <br>
 Wonduk Seo, Seungyong Lee, Daye Kang, Zonghao Yuan, Seunghyun Lee <br>
-[arXiv, 16 Feb 2025]](https://arxiv.org/pdf/2502.11140) 
+[arXiv, 16 Feb 2025](https://arxiv.org/pdf/2502.11140) 
 
 **ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM** <br>
 Songheng Zhang, Lei Wang, Toby Jia-Jun Li, Qiaomu Shen, Yixin Cao, Yong Wang <br>
