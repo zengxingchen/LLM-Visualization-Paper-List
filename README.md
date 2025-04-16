@@ -140,6 +140,13 @@ haudhry, Ritwick and Shekhar, Sumit and Gupta, Utkarsh and Maneriker, Pranav and
 
 
 ### 2.1 Benchmark
+
+**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering** <br>
+Ahmed Masry, Mohammed Saidul Islam, Mahir Ahmed, Aayush Bajaj, Firoz Kabir, Aaryaman Kartha, Md Tahmid Rahman Laskar, Mizanur Rahman, Shadikur Rahman, Mehrad Shahmohammadi, Megh Thakkar, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty <br>
+[arXiv, 10 Apr 2025](https://arxiv.org/abs/2504.05506) • [Code](https://github.com/visnlp/ChartQAPro)
+
+
+
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
 [NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
