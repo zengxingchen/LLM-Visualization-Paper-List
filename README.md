@@ -33,9 +33,13 @@
 - Papers under the same category are recorded in reverse chronological order.
 ## 1. Chart Captioning
 
-**Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models**  
-Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Jinwook Seo  
+**Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models** <br>
+Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Jinwook Seo <br>
 [CHI 2024](https://arxiv.org/abs/2309.10245) • [Code](https://github.com/hyungkwonko/chart-llm)
+
+**Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning** <br>
+Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji <br>
+[Findings of ACL 2024](https://aclanthology.org/2024.findings-acl.41.pdf)  • [Homepage](https://khuangaf.github.io/CHOCOLATE)<br>
 
 **VisText: A Benchmark for Semantically Rich Chart Captioning**  
 Benny J. Tang, Angie Boggust, Arvind Satyanarayan  
