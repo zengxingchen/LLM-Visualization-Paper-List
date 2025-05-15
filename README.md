@@ -240,11 +240,12 @@ Jiayun Fu, Bin Zhu, Weiwei Cui, Song Ge, Yun Wang, Haidong Zhang, He Huang, Yuan
 [TVCG 2021](https://ieeexplore.ieee.org/abstract/document/9293003)
 
 **Reverse‐engineering visualizations: Recovering visual encodings from chart images**  
-Jorge Poco and Jeffrey Heer  
+Jorge Poco and Jeffrey Heer <br>
 [EuroVis 2017](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13193)
 
-
-
+**ReVision: automated classification, analysis and redesign of chart images** <br>
+Manolis Savva, Nicholas Kong, Arti Chhajta, Li Fei-Fei, Maneesh Agrawala, Jeffrey Heer <br>
+[UIST 2011](https://dl.acm.org/doi/abs/10.1145/2047196.2047247)
 
 ## 4. Natural Language to Visualization
 ### 4.0 Method, Framework, and Benchmark
