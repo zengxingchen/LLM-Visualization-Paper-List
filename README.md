@@ -195,6 +195,10 @@ Joshua Gorniak, Yoon Kim, Donglai Wei, Nam Wook Kim <br>
 
 ## 3. Chart Reverse Engineering
 
+**METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling** <br>
+Bingxuan Li, Yiwei Wang, Jiuxiang Gu, Kai-Wei Chang, Nanyun Peng <br>
+[ACL 2025](https://arxiv.org/pdf/2502.17651) • [Homepage](https://metal-chart-generation.github.io/)
+
 **Enhancing Chart-to-Code Generation in Multimodal Large Language Models via Iterative Dual Preference Learning** <br>
 Zhihan Zhang, Yixin Cao, Lizi Liao <br>
 [arXiv, 3 Apr 2025](https://arxiv.org/pdf/2504.02906) 
