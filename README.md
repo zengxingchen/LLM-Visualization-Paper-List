@@ -67,6 +67,7 @@ Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, Megh Thakkar, Khyati
 [COLM 2025](https://arxiv.org/pdf/2508.09804) • [Homepage](https://bigcharts.github.io/)
 
 **Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**
+Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Yufeng Zhong, Lin Ma <br>
 [arXiv, 21 Jul 2025](https://arxiv.org/pdf/2507.15509)
 
 
