@@ -62,6 +62,14 @@ Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, En
 Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
 [VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
+**BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning** <br>
+Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, Megh Thakkar, Khyati Mahajan, Vikas Yadav, Sathwik Tejaswi Madhusudhan, Alexandre Piché, Dzmitry Bahdanau, Christopher Pal, David Vazquez, Enamul Hoque, Perouz Taslakian, Sai Rajeswar, Spandana Gella <br>
+[COLM 2025](https://arxiv.org/pdf/2508.09804) • [Homepage](https://bigcharts.github.io/)
+
+**Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**
+[arXiv, 21 Jul 2025](https://arxiv.org/pdf/2507.15509)
+
+
 **AskChart: Universal Chart Understanding through Textual Enhancement**  
 Xudong Yang, Yifan Wu, Yizhang Zhu, Nan Tang, Yuyu Luo <br>
 [arXiv, 26 Dec 2024](https://arxiv.org/abs/2412.19146)
@@ -148,6 +156,10 @@ haudhry, Ritwick and Shekhar, Sumit and Gupta, Utkarsh and Maneriker, Pranav and
 
 ### 2.1 Benchmark
 
+**DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards** <br>
+Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty <br>
+[arXiv, 24 Aug 2025](https://arxiv.org/pdf/2508.17398)  • [Code](https://github.com/vis-nlp/DashboardQA)
+
 **ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering** <br>
 Ahmed Masry, Mohammed Saidul Islam, Mahir Ahmed, Aayush Bajaj, Firoz Kabir, Aaryaman Kartha, Md Tahmid Rahman Laskar, Mizanur Rahman, Shadikur Rahman, Mehrad Shahmohammadi, Megh Thakkar, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty <br>
 [arXiv, 10 Apr 2025](https://arxiv.org/abs/2504.05506) • [Code](https://github.com/visnlp/ChartQAPro)
@@ -196,7 +208,11 @@ Samira Ebrahimi Kahou, Vincent Michalski, Adam Atkinson, Akos Kadar, Adam Trisch
 Joshua Gorniak, Yoon Kim, Donglai Wei, Nam Wook Kim <br>
 [UIST 2024](https://dl.acm.org/doi/abs/10.1145/3654777.3676414)
 
-## 3. Chart Reverse Engineering
+## 3. Chart-to-Code 
+
+**ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart Similarity Reinforcement Learning** <br>
+Wentao Tan, Qiong Cao, Chao Xue, Yibing Zhan, Changxing Ding, Xiaodong He <br>
+[arXiv, 25 Aug 2025](https://arxiv.org/pdf/2508.17608) • [Homepage](https://github.com/WentaoTan/ChartMaster)
 
 **METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling** <br>
 Bingxuan Li, Yiwei Wang, Jiuxiang Gu, Kai-Wei Chang, Nanyun Peng <br>
@@ -225,7 +241,7 @@ Zhehao Zhang, Weicheng Ma, Soroush Vosoughi <br>
 
 
 
---- Pre-LLM ---  
+--- Pre-LLM (Chart Reverse Engineering) ---  
 **InvVis: Large-scale data embedding for invertible visualization** <br>
 Huayuan Ye, Chenhui Li, Yang Li and Changbo Wang <br>
 [VIS 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10290968)
