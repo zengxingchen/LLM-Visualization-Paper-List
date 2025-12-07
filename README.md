@@ -33,7 +33,8 @@
 - Papers under the same category are recorded in reverse chronological order.
 ## 1. Chart Captioning
 
-**ChartCap: Mitigating Hallucination of Dense Chart Captioning**
+**ChartCap: Mitigating Hallucination of Dense Chart Captioning** <br>
+Junyoung Lim, Jaewoo Ahn, Gunhee Kim <br>
 [ICCV2025 Highlight](https://arxiv.org/pdf/2508.03164)  • [Code](https://junyoung-00.github.io/ChartCap)
 
 **Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models** <br>
