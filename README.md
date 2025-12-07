@@ -10,7 +10,7 @@
     - [2.0 Data, Model](#20-data-model)
     - [2.1 Benchmark](#21-benchmark)
     - [2.3 Application Scenarios (e.g., Accessibility)](#23-application-scenarios)
-  - [3. Chart Reverse Engineering & Chart-to-Code Translation](#3-chart-reverse-engineering)
+  - [3. Chart Reverse Engineering & Chart-to-Code Translation](#3-chart-to-code)
   - [4. Natural Language to Visualization](#4-natural-language-to-visualization)
      - [4.0 Method, Framework, and Benchmark](#40-method-framework-and-benchmark)
      - [4.1 Application Scenarios (e.g., Storytelling)](#41-application-scenarios)
@@ -223,9 +223,12 @@ Bingxuan Li, Yiwei Wang, Jiuxiang Gu, Kai-Wei Chang, Nanyun Peng <br>
 Zhihan Zhang, Yixin Cao, Lizi Liao <br>
 [arXiv, 3 Apr 2025](https://arxiv.org/pdf/2504.02906) 
 
+**ChartEdit: How Far Are MLLMs From Automating Chart Analysis? Evaluating MLLMs’ Capability via Chart Editing** <br>
+[Findings of ACL 2025](https://arxiv.org/abs/2501.06598) • [Code](https://github.com/thunlp/ChartCoder)
+
 **ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation** <br>
 Xuanle Zhao, Xianzhen Luo, Qi Shi, Chi Chen, Shuo Wang, Wanxiang Che, Zhiyuan Liu, Maosong Sun <br>
-[arXiv, 11 Jan 2025](https://arxiv.org/abs/2501.06598) • [Code](https://github.com/thunlp/ChartCoder)
+[ACL 2025](https://aclanthology.org/2025.findings-acl.185.pdf) • [Code](https://github.com/xxlllz/ChartEdit)
 
 **ChartMimic: Evaluating LMM’s Cross-Modal Reasoning Capability via Chart-to-Code Generation**  
 Chufan Shi and Cheng Yang and Yaxin Liu and Bo Shui and Junjie Wang and Mohan Jing and Linran Xu and Xinyu Zhu and Siheng Li and Yuxiang Zhang and Gongye Liu and Xiaomei Nie and Deng Cai and Yujiu Yang  
