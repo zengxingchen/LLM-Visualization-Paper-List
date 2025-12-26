@@ -69,8 +69,12 @@ Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, Megh Thakkar, Khyati
 
 **Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**
 Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Yufeng Zhong, Lin Ma <br>
-[arXiv, 21 Jul 2025](https://arxiv.org/pdf/2507.15509)
+[arXiv, 21 Jul 2025](https://arxiv.org/pdf/2507.15509) • [Homepage](https://yueyang1996.github.io/cosyn/)
 
+
+**Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation** <br>
+Yue Yang, Ajay Patel, Matt Deitke, Tanmay Gupta, Luca Weihs, Andrew Head, Mark Yatskar, Chris Callison-Burch, Ranjay Krishna, Aniruddha Kembhavi, Christopher Clark <br>
+[ACL 2025](https://aclanthology.org/2025.acl-long.855.pdf)
 
 **AskChart: Universal Chart Understanding through Textual Enhancement**  
 Xudong Yang, Yifan Wu, Yizhang Zhu, Nan Tang, Yuyu Luo <br>
