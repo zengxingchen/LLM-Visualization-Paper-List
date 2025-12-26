@@ -162,15 +162,26 @@ haudhry, Ritwick and Shekhar, Sumit and Gupta, Utkarsh and Maneriker, Pranav and
 
 ### 2.1 Benchmark
 
+
 **DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards** <br>
 Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty <br>
 [arXiv, 24 Aug 2025](https://arxiv.org/pdf/2508.17398)  • [Code](https://github.com/vis-nlp/DashboardQA)
 
+**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models** <br>
+Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, Fangcong Yin, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, Bodun Hu, Juan Diego Rodriguez, Puyuan Peng, Greg Durrett <br>
+[NIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/121447)  • [Code](https://github.com/Liyan06/ChartMuseum)
+
+**ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering** <br>
+Jingxuan Wei, Nan Xu, Junnan Zhu, Yanni Hao, Gaowei Wu, Bihui Yu, Lei Wang <br>
+[EMNLP 2025](https://aclanthology.org/2025.emnlp-main.226.pdf)  • [Code](https://tongli97.github.io/ChartMind/)
+
+**CHARTGALAXY: A DATASET FOR INFOGRAPHIC  CHART UNDERSTANDING AND GENERATION** <br>
+Zhen Li, Duan Li, Yukai Guo, Xinyuan Guo, Bowen Li, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu <br>
+[arXiv, 24 May 2025](https://arxiv.org/html/2505.18668v1)  • [Code](https://github.com/ChartGalaxy/ChartGalaxy)
+
 **ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering** <br>
 Ahmed Masry, Mohammed Saidul Islam, Mahir Ahmed, Aayush Bajaj, Firoz Kabir, Aaryaman Kartha, Md Tahmid Rahman Laskar, Mizanur Rahman, Shadikur Rahman, Mehrad Shahmohammadi, Megh Thakkar, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty <br>
 [arXiv, 10 Apr 2025](https://arxiv.org/abs/2504.05506) • [Code](https://github.com/visnlp/ChartQAPro)
-
-
 
 **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
  Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
@@ -295,7 +306,7 @@ Songheng Zhang, Lei Wang, Toby Jia-Jun Li, Qiaomu Shen, Yixin Cao, Yong Wang <br
 
 **Charting the Future: Using Chart Question-Answering for Scalable Evaluation of LLM-Driven Data Visualizations** <br>
 James Ford, Xingmeng Zhao, Dan Schumacher, Anthony Rios <br>
-[arXiv, 27 Sep 2024](https://arxiv.org/pdf/2409.18764)
+[COLING 2025](https://aclanthology.org/2025.coling-main.501.pdf)
 
 **VisEval: A benchmark for data visualization in the era of large language models**  
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
