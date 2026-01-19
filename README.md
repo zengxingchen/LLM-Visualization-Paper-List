@@ -37,13 +37,17 @@
 Junyoung Lim, Jaewoo Ahn, Gunhee Kim <br>
 [ICCV2025 Highlight](https://arxiv.org/pdf/2508.03164)  • [Code](https://junyoung-00.github.io/ChartCap)
 
-**Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models** <br>
-Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Jinwook Seo <br>
-[CHI 2024](https://arxiv.org/abs/2309.10245) • [Code](https://github.com/hyungkwonko/chart-llm)
+**ChartInsighter: An Approach for Mitigating Hallucination in Time-Series Chart Summary Generation With a Benchmark Dataset** <br>
+Fen Wang, Bomiao Wang, Xueli Shu, Zhen Liu, Zekai Shao, Chao Liu, Siming Chen <br>
+[TVCG 2025](https://ieeexplore.ieee.org/document/10988687) • [Code](https://github.com/wangfen01/ChartInsighter)
 
 **Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning** <br>
 Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji <br>
 [Findings of ACL 2024](https://aclanthology.org/2024.findings-acl.41.pdf)  • [Homepage](https://khuangaf.github.io/CHOCOLATE)<br>
+
+**Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models** <br>
+Hyung-Kwon Ko, Hyeon Jeon, Gwanmo Park, Dae Hyun Kim, Nam Wook Kim, Juho Kim, Jinwook Seo <br>
+[CHI 2024](https://arxiv.org/abs/2309.10245) • [Code](https://github.com/hyungkwonko/chart-llm)
 
 **VisText: A Benchmark for Semantically Rich Chart Captioning**  
 Benny J. Tang, Angie Boggust, Arvind Satyanarayan  
@@ -54,15 +58,9 @@ Benny J. Tang, Angie Boggust, Arvind Satyanarayan
 Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty  
 [ACL 2022](https://aclanthology.org/2022.acl-long.277.pdf) • [Code](https://github.com/vis-nlp/Chart-to-text)
 
-
 ##  2. Chart Question Answering
 
-
 ### 2.0 Data, Model
-**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**  
-Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
-[VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
-
 **BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning** <br>
 Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, Megh Thakkar, Khyati Mahajan, Vikas Yadav, Sathwik Tejaswi Madhusudhan, Alexandre Piché, Dzmitry Bahdanau, Christopher Pal, David Vazquez, Enamul Hoque, Perouz Taslakian, Sai Rajeswar, Spandana Gella <br>
 [COLM 2025](https://arxiv.org/pdf/2508.09804) • [Homepage](https://bigcharts.github.io/)
@@ -71,10 +69,21 @@ Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, Megh Thakkar, Khyati
 Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Yufeng Zhong, Lin Ma <br>
 [arXiv, 21 Jul 2025](https://arxiv.org/pdf/2507.15509) • [Homepage](https://yueyang1996.github.io/cosyn/)
 
-
 **Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation** <br>
 Yue Yang, Ajay Patel, Matt Deitke, Tanmay Gupta, Luca Weihs, Andrew Head, Mark Yatskar, Chris Callison-Burch, Ranjay Krishna, Aniruddha Kembhavi, Christopher Clark <br>
 [ACL 2025](https://aclanthology.org/2025.acl-long.855.pdf)
+
+**ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding**   
+Zhengzhuo Xu*, Bowen Qu*, Yiyan Qi*, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
+[ICLR 2025](https://arxiv.org/abs/2409.03277) • [Code](https://github.com/IDEA-FinAI/ChartMoE)
+
+**ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild** <br>
+Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty <br>
+[COLING 2025 Industry Track](https://aclanthology.org/2025.coling-industry.54.pdf) • [Code](https://github.com/vis-nlp/ChartGemma)
+
+**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**  
+Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng  
+[VIS 2024](https://arxiv.org/abs/2407.20174) • [Code](https://github.com/zengxingchen/ChartQA-MLLM)
 
 **AskChart: Universal Chart Understanding through Textual Enhancement**  
 Xudong Yang, Yifan Wu, Yizhang Zhu, Nan Tang, Yuyu Luo <br>
@@ -88,17 +97,9 @@ Wei He, Zhiheng Xi, Wanxu Zhao, Xiaoran Fan, Yiwen Ding, Zifei Shan, Tao Gui, Qi
 Mengchen Liu, Qixiu Li, Dongdong Chen, Dong Chen, Jianmin Bao, Yunsheng Li  
 [arXiv, 25 Sep 2024](https://arxiv.org/abs/2409.16517)
 
-**ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding**   
-Zhengzhuo Xu*, Bowen Qu*, Yiyan Qi*, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
-[ICLR 2025](https://arxiv.org/abs/2409.03277) • [Code](https://github.com/IDEA-FinAI/ChartMoE)
-
 **On Pre-training of Multimodal Language Models Customized for Chart Understanding** <br>
 Wan-Cyuan Fan, Yen-Chun Chen, Mengchen Liu, Lu Yuan, Leonid Sigal <br>
 [arXiv, 19 Jul 2024](https://arxiv.org/abs/2407.14506)
-
-**ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild** <br>
-Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty <br>
-[COLING 2025 Industry Track](https://aclanthology.org/2025.coling-industry.54.pdf) • [Code](https://github.com/vis-nlp/ChartGemma)
 
 **TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**  
 Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, Fei Huang  
@@ -107,7 +108,6 @@ Liang Zhang*, Anwen Hu*, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin†, Ji Zhang, 
 **OneChart: Purify the Chart Structural Extraction via One Auxiliary Token**  
 Jinyue Chen*, Lingyu Kong*, Haoran Wei, Chenglong Liu, Zheng Ge, Liang Zhao, Jianjian Sun, Chunrui Han, Xiangyu Zhang  
 [ACM MM 2024 (Oral)](https://arxiv.org/pdf/2404.09987) • [Homepage](https://onechartt.github.io/)
-
 
 **Representing Charts as Text for Language Models: An In-Depth Study of Question Answering for Bar Charts**  
 Victor Soares Bursztyn, Jane Hoffswell, Eunyee Koh, Shunan Guo  
@@ -125,13 +125,13 @@ Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Lu
 Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu  
 [NAACL 2024](https://aclanthology.org/2024.naacl-long.70.pdf) • [Code](https://github.com/FuxiaoLiu/MMC)
 
-**Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs** <br>
-Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma<br>
-[NAACL'24 Findings](https://arxiv.org/pdf/2403.12596)
-
 **Synthesize Step-by-Step: Tools Templates and LLMs as Data Generators for Reasoning-Based Chart VQA**  
 Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar  
 [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Synthesize_Step-by-Step_Tools_Templates_and_LLMs_as_Data_Generators_for_CVPR_2024_paper.pdf)
+
+**Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs** <br>
+Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma<br>
+[NAACL'24 Findings](https://arxiv.org/pdf/2403.12596)
 
 **Chartllama: A multimodal llm for chart understanding and generation**  
 Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang <br>
@@ -159,41 +159,43 @@ Hrituraj Singh, Sumit Shekhar <br>
 haudhry, Ritwick and Shekhar, Sumit and Gupta, Utkarsh and Maneriker, Pranav and Bansal, Prann and Joshi, Ajay <br>
 [WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/papers/Chaudhry_LEAF-QA_Locate_Encode__Attend_for_Figure_Question_Answering_WACV_2020_paper.pdf)
 
-
 ### 2.1 Benchmark
-
-
-**DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards** <br>
-Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty <br>
-[arXiv, 24 Aug 2025](https://arxiv.org/pdf/2508.17398)  • [Code](https://github.com/vis-nlp/DashboardQA)
-
-**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models** <br>
-Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, Fangcong Yin, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, Bodun Hu, Juan Diego Rodriguez, Puyuan Peng, Greg Durrett <br>
-[NIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/121447)  • [Code](https://github.com/Liyan06/ChartMuseum)
-
-**ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering** <br>
-Jingxuan Wei, Nan Xu, Junnan Zhu, Yanni Hao, Gaowei Wu, Bihui Yu, Lei Wang <br>
-[EMNLP 2025](https://aclanthology.org/2025.emnlp-main.226.pdf)  • [Code](https://tongli97.github.io/ChartMind/)
-
-**CHARTGALAXY: A DATASET FOR INFOGRAPHIC  CHART UNDERSTANDING AND GENERATION** <br>
-Zhen Li, Duan Li, Yukai Guo, Xinyuan Guo, Bowen Li, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu <br>
-[arXiv, 24 May 2025](https://arxiv.org/html/2505.18668v1)  • [Code](https://github.com/ChartGalaxy/ChartGalaxy)
 
 **ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering** <br>
 Ahmed Masry, Mohammed Saidul Islam, Mahir Ahmed, Aayush Bajaj, Firoz Kabir, Aaryaman Kartha, Md Tahmid Rahman Laskar, Mizanur Rahman, Shadikur Rahman, Mehrad Shahmohammadi, Megh Thakkar, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty <br>
 [arXiv, 10 Apr 2025](https://arxiv.org/abs/2504.05506) • [Code](https://github.com/visnlp/ChartQAPro)
 
-**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
- Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
-[NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
+**CHARTGALAXY: A DATASET FOR INFOGRAPHIC  CHART UNDERSTANDING AND GENERATION** <br>
+Zhen Li, Duan Li, Yukai Guo, Xinyuan Guo, Bowen Li, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu <br>
+[arXiv, 24 May 2025](https://arxiv.org/html/2505.18668v1)  • [Code](https://github.com/ChartGalaxy/ChartGalaxy)
+
+**ChartLens: Fine-grained Visual Attribution in Charts** <br>
+Manan Suri, Puneet Mathur, Nedim Lipka, Franck Dernoncourt, Ryan A. Rossi, Dinesh Manocha <br>
+[ACL 2025](https://arxiv.org/pdf/2505.19360) • [Code](https://github.com/MananSuri27/ChartLens)
+
+**DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards** <br>
+Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty <br>
+[arXiv, 24 Aug 2025](https://arxiv.org/pdf/2508.17398)  • [Code](https://github.com/vis-nlp/DashboardQA)
+
+**ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering** <br>
+Jingxuan Wei, Nan Xu, Junnan Zhu, Yanni Hao, Gaowei Wu, Bihui Yu, Lei Wang <br>
+[EMNLP 2025](https://aclanthology.org/2025.emnlp-main.226.pdf)  • [Code](https://tongli97.github.io/ChartMind/)
+
+**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models** <br>
+Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, Fangcong Yin, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, Bodun Hu, Juan Diego Rodriguez, Puyuan Peng, Greg Durrett <br>
+[NIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/121447)  • [Code](https://github.com/Liyan06/ChartMuseum)
+
+**Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning**  
+Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao  
+[arXiv, 19 Feb 2024](https://arxiv.org/pdf/2402.12185)
 
 **ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering**  
 Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo  
 [Findings of EMNLP 2024](https://arxiv.org/pdf/2405.07001)  • [Code](https://chartinsight.github.io/)
 
-**Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning**  
-Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao  
-[arXiv, 19 Feb 2024](https://arxiv.org/pdf/2402.12185)
+**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**  
+ Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen  
+[NeurIPS 2024 Benchmark](http://arxiv.org/abs/2406.18521) • [Homepage](https://charxiv.github.io/)
 
 **ChartBench: A Benchmark for Complex Visual Reasoning in Charts**   
 Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo  
@@ -258,10 +260,11 @@ Chengyue Wu, Yixiao Ge, Qiushan Guo, Jiahao Wang, Zhixuan Liang, Zeyu Lu, Ying S
 Zhehao Zhang, Weicheng Ma, Soroush Vosoughi <br>
 [EMNLP2024 Findings](https://aclanthology.org/2024.findings-emnlp.485.pdf)  • [Code](https://github.com/zzh-SJTU/AcademiaChart)
 
-
-
-
 --- Pre-LLM (Chart Reverse Engineering) ---  
+**ReVision: automated classification, analysis and redesign of chart images** <br>
+Manolis Savva, Nicholas Kong, Arti Chhajta, Li Fei-Fei, Maneesh Agrawala, Jeffrey Heer <br>
+[UIST 2011](https://dl.acm.org/doi/abs/10.1145/2047196.2047247)
+
 **InvVis: Large-scale data embedding for invertible visualization** <br>
 Huayuan Ye, Chenhui Li, Yang Li and Changbo Wang <br>
 [VIS 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10290968)
@@ -286,10 +289,6 @@ Jiayun Fu, Bin Zhu, Weiwei Cui, Song Ge, Yun Wang, Haidong Zhang, He Huang, Yuan
 Jorge Poco and Jeffrey Heer <br>
 [EuroVis 2017](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13193)
 
-**ReVision: automated classification, analysis and redesign of chart images** <br>
-Manolis Savva, Nicholas Kong, Arti Chhajta, Li Fei-Fei, Maneesh Agrawala, Jeffrey Heer <br>
-[UIST 2011](https://dl.acm.org/doi/abs/10.1145/2047196.2047247)
-
 ## 4. Natural Language to Visualization
 ### 4.0 Method, Framework, and Benchmark
 **nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow** <br>
@@ -300,22 +299,25 @@ Geliang Ouyang, Jingyao Chen, Zhihe Nie, Yi Gui, Yao Wan, Hongyu Zhang, Dongping
 Wonduk Seo, Seungyong Lee, Daye Kang, Zonghao Yuan, Seunghyun Lee <br>
 [arXiv, 16 Feb 2025](https://arxiv.org/pdf/2502.11140) 
 
-**ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM** <br>
-Songheng Zhang, Lei Wang, Toby Jia-Jun Li, Qiaomu Shen, Yixin Cao, Yong Wang <br>
-[arXiv, 7 Nov 2024](https://arxiv.org/pdf/2410.14331)
-
 **Charting the Future: Using Chart Question-Answering for Scalable Evaluation of LLM-Driven Data Visualizations** <br>
 James Ford, Xingmeng Zhao, Dan Schumacher, Anthony Rios <br>
 [COLING 2025](https://aclanthology.org/2025.coling-main.501.pdf)
+
+**Text2Vis: A Challenging and Diverse Benchmark for Generating Multimodal Visualizations from Text** <br>
+Mizanur Rahman, Md Tahmid Rahman Laskar, Shafiq Joty, Enamul Hoque <br>
+[EMNLP 2025](https://aclanthology.org/2025.emnlp-main.1622.pdf) • [Code](https://github.com/vis-nlp/Text2Vis)
+
+**Chartgpt: Leveraging LLMs to generate charts from abstract natural language**  
+Yuan Tian, Weiwei Cui, Dazhen Deng, Xinjing Yi, Yurun Yang, Haidong Zhang, Yingcai Wu  
+[TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10443572)
 
 **VisEval: A benchmark for data visualization in the era of large language models**  
 Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, and Yuqing Yang  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10670425)  • [Code](https://github.com/microsoft/VisEval)
 
-
-**Chartgpt: Leveraging LLMs to generate charts from abstract natural language**  
-Yuan Tian, Weiwei Cui, Dazhen Deng, Xinjing Yi, Yurun Yang, Haidong Zhang, Yingcai Wu  
-[TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10443572)
+**ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM** <br>
+Songheng Zhang, Lei Wang, Toby Jia-Jun Li, Qiaomu Shen, Yixin Cao, Yong Wang <br>
+[arXiv, 7 Nov 2024](https://arxiv.org/pdf/2410.14331)
 
 **LLM4Vis: Explainable Visualization Recommendation using ChatGPT**  
 Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim, Yong Wang  
@@ -340,10 +342,21 @@ Zhou, Mengyu and Li, Qingtao and He, Xinyi and Li, Yuejiang and Liu, Yibo and Ji
 [KDD 2021](https://dl.acm.org/doi/pdf/10.1145/3447548.3467279) • [Code](https://github.com/microsoft/Table2Charts)
 
 ### 4.1 Application Scenarios
+**Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework** <br>
+Zhaorui Yang, Bo Pan, Han Wang, Yiyao Wang, Xingyu Liu, Luoxuan Weng, Yingchaojie Feng, Haozhe Feng, Minfeng Zhu, Bo Zhang, Wei Chen <br>
+[AAAI 2026 Oral](https://arxiv.org/abs/2506.02454) 
+
+**From Charts to Fair Narratives: Uncovering and Mitigating Geo-Economic Biases in Chart-to-Text** <br>
+Ridwan Mahbub, Mohammed Saidul Islam, Mir Tafseer Nayeem, Md Tahmid Rahman Laskar, Mizanur Rahman, Shafiq Joty, Enamul Hoque <br>
+[EMNLP 2025](https://aclanthology.org/2025.emnlp-main.1472.pdf)
+
+**Narrative Player: Reviving Data Narratives With Visuals** <br>
+Zekai Shao, Leixian Shen, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen <br>
+[TVCG 2025](https://ieeexplore.ieee.org/document/10843313) • [Homepage](https://datavideos.github.io/Narrative_Player/)
+
 **Show and Tell: Exploring Large Language Model’s Potential in Formative Educational Assessment of Data Stories** <br>
 Naren Sivakumar, Lujie Karen Chen, Pravalika Papasani, Vigna Majmundar, Jinjuan Heidi Feng, Louise Yarnall <br>
 [2024 IEEE VIS Workshop on Data Storytelling in an Era of Generative AI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10766490)
-
 
 **DataNarrative: Automated Data-Driven Storytelling with Visualizations and Texts** <br>
 Mohammed Saidul Islam, Enamul Hoque, Shafiq Joty, Md Tahmid Rahman Laskar, Md Rizwan Parvez <br>
@@ -357,7 +370,6 @@ Zhutian Chen, Chenyang Zhang, Qianwen Wang, Jakob Troidl, Simon Warchol, Johanna
 Liqi Cheng, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, Yingcai Wu  
 [TVCG 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10507016)
 
-
 ## 5. Visualization Design
 ### 5.0 Color
 **Large Language Models estimate fine-grained human color-concept associations** <br>
@@ -369,6 +381,14 @@ Chuhan Shi, Weiwei Cui, Chengzhong Liu, Chengbo Zheng, Haidong Zhang, Qiong Luo,
 [VIS 2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10292693)
 
 ### 5.1 Design Preferences
+**Data Augmentation for Visualization Design Knowledge Bases** <br>
+Hyeok Kim, Jeffrey Heer <br>
+[VIS 2025](https://ieeexplore.ieee.org/document/11261848)
+
+**Visualizationary: Automating Design Feedback for Visualization Designers Using Large Language Models** <br>
+Sungbok Shin, Sanghyun Hong, Niklas Elmqvist <br>
+[TVCG 2025](https://ieeexplore.ieee.org/abstract/document/11034749)
+
 **DracoGPT: Extracting Visualization Design Preferences from Large Language Models**  
 Huichen Will Wang, Mitchell Gordon, Leilani Battle, and Jeffrey Heer  
 [VIS 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10681108)
@@ -383,6 +403,18 @@ F. Yanez and C. Nobre
 [MLVis 2024](https://diglib.eg.org/server/api/core/bitstreams/23abe5fb-4de1-432f-97ab-ad757f5418e3/content)
 
 ## 6. Visualization Agents & Automatic Judge
+**C2: Scalable Auto-Feedback for LLM-based Chart Generation** <br>
+Woosung Koh, Jang Han Yoon, MinHyung Lee, Youngjin Song, Jaegwan Cho, Jaehyun Kang, Taehyeon Kim, Se-Young Yun, Youngjae Yu, Bongshin Lee <br>
+[NAACL 2025 Oral](https://arxiv.org/abs/2410.18652) • [Homepage](https://chartsquared.github.io/)
+
+**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?** <br>
+Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub, Ahmed Masry, Mizanur Rahman, Amran Bhuiyan, Mir Tafseer Nayeem, Shafiq Joty, Enamul Hoque, Jimmy Huang <br>
+[ACL 2025 Industry](https://arxiv.org/abs/2505.08468)
+
+**Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices** <br>
+Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub, Mizanur Rahman, Amran Bhuiyan, Israt Jahan, Mir Tafseer Nayeem, Shafiq Joty, Enamul Hoque, Jimmy Huang <br>
+[EMNLP 2025 Industry](https://aclanthology.org/2025.emnlp-industry.134.pdf)
+
 **The Visualization JUDGE: Can Multimodal Foundation Models Guide Visualization Design Through Visual Perception?**  
 Matthew Berger, Shusen Liu  
 [arXiv, 5 Oct 2024](https://arxiv.org/pdf/2410.04280)  
@@ -447,7 +479,6 @@ Hannah K Bako, Arshnoor Buthani, Xinyi Liu, Kwesi A Cobbina, Zhicheng Liu
 Zhanke Zhou, Zhaocheng Zhu, Xuan Li, Mikhail Galkin, Xiao Feng, Sanmi Koyejo, Jian Tang, Bo Han <br>
 [arXiv, 28 Mar 2025]
 
-
 **LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models** <br>
 Gabriela Ben Melech Stan, Estelle Aflalo, Raanan Yehezkel Rohekar, Anahita Bhiwandiwalla, Shao-Yen Tseng, Matthew Lyle Olson, Yaniv Gurwicz, Chenfei Wu, Nan Duan, Vasudev Lal <br>
 [arXiv, 3 Apr 2024](https://arxiv.org/abs/2404.03118) • [Homepage](https://intellabs.github.io/multimodal_cognitive_ai/lvlm_interpret/)
@@ -483,14 +514,17 @@ Adam Pearce, Asma Ghandeharioun, Nada Hussein, Nithum Thain, Martin Wattenberg a
 ## 9. Generic Multimodal Large Language Model
 > Refer to [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) for a more comprehensive list. This repo only records papers that bring insights to **LLM**x**Vis**.
 
-**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models** <br>
-Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Guannan Jiang, Xiaoshuai Sun, Rongrong Ji <br>
-[NIPS 2024](https://arxiv.org/pdf/2407.21534) • [Code](https://github.com/mrwu-mac/ControlMLLM)
-
+**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models** <br>
+Linli Yao, Lei Li, Shuhuai Ren, Lean Wang, Yuanxin Liu, Xu Sun, Lu Hou <br>
+[arXiv, 31 May 2024](https://arxiv.org/abs/2405.20985) • [Code](https://github.com/yaolinli/DeCo)
 
 **MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**  
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang  
 [arXiv, 30 Sep 2024](https://arxiv.org/pdf/2409.20566)  
+
+**ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models** <br>
+Mingrui Wu, Xinyue Cai, Jiayi Ji, Jiale Li, Oucheng Huang, Gen Luo, Hao Fei, Guannan Jiang, Xiaoshuai Sun, Rongrong Ji <br>
+[NIPS 2024](https://arxiv.org/pdf/2407.21534) • [Code](https://github.com/mrwu-mac/ControlMLLM)
 
 **Law of Vision Representation in MLLMs** <br>
 Shijia Yang, Bohan Zhai, Quanzeng You, Jianbo Yuan, Hongxia Yang, Chenfeng Xu <br>
@@ -504,11 +538,6 @@ Min Shi*, Fuxiao Liu*, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, De-An
 Shengbang Tong*, Ellis Brown*, Penghao Wu*, Sanghyun Woo, Manoj Middepogu, Sai Charitha Akula, Jihan Yang, Shusheng Yang, Adithya Iyer, Xichen Pan, Austin Wang, Rob Fergus, Yann LeCun, Saining Xie  
 [arXiv, 24 Jun 2024](https://arxiv.org/abs/2408.15998) • [Code](https://github.com/cambrian-mllm/cambrian)
 
-**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models** <br>
-Linli Yao, Lei Li, Shuhuai Ren, Lean Wang, Yuanxin Liu, Xu Sun, Lu Hou <br>
-[arXiv, 31 May 2024](https://arxiv.org/abs/2405.20985) • [Code](https://github.com/yaolinli/DeCo)
-
-
 **Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs** <br>
 Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie <br>
 [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Tong_Eyes_Wide_Shut_Exploring_the_Visual_Shortcomings_of_Multimodal_LLMs_CVPR_2024_paper.pdf)
@@ -521,6 +550,10 @@ Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Q
 [arXiv, 27 Jun 2023](https://arxiv.org/abs/2306.15195) • [Code](https://github.com/shikras/shikra)
 
 ## 10. Related Survey Papers
+**From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models**  
+Kung-Hsiang Huang, Hou Pong Chan, Yi R. Fung, Haoyi Qiu, Mingyang Zhou, Shafiq Joty, Shih-Fu Chang, Heng Ji  
+[arXiv, 18 Mar 2024](https://arxiv.org/pdf/2403.12027)
+
 **Natural Language Generation for Visualizations: State of the Art, Challenges and Future Directions** <br>
 Enamul Hoque, Mohammed Saidul Islam <br>
 [arXiv, 29 Sep 2024](https://arxiv.org/pdf/2409.19747) 
@@ -541,10 +574,6 @@ Weikai Yang, Mengchen Liu, Zheng Wang, Shixia Liu
 Jiani Huang, Haihua Chen, Fengchang Yu, Wei Lu  
 [ACM Computing Surveys 2024](https://dl.acm.org/doi/pdf/10.1145/3657285)
 
-**From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models**  
-Kung-Hsiang Huang, Hou Pong Chan, Yi R. Fung, Haoyi Qiu, Mingyang Zhou, Shafiq Joty, Shih-Fu Chang, Heng Ji  
-[arXiv, 18 Mar 2024](https://arxiv.org/pdf/2403.12027)
-
 **Leveraging large models for crafting narrative visualization: a survey**  
 Yi He, Shixiong Cao, Yang Shi, Qing Chen, Ke Xu, Nan Cao  
 [arXiv, 25 Jan 2024](https://arxiv.org/pdf/2401.14010)
@@ -564,7 +593,6 @@ Enamul Hoque, Parsa Kavehzadeh, Ahmed Masry
 **Towards Natural Language Interfaces for Data Visualization: A Survey**  
 Leixian Shen, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, Jianmin Wang  
 [TVCG 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9699035)
-
 
 ## 11. Others
 **VisAnatomy: An SVG Chart Corpus with Fine-Grained Semantic Labels** <br>
