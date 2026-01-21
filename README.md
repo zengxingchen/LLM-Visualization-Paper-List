@@ -73,6 +73,10 @@ Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Yufeng Zhong, Lin Ma <br>
 Yue Yang, Ajay Patel, Matt Deitke, Tanmay Gupta, Luca Weihs, Andrew Head, Mark Yatskar, Chris Callison-Burch, Ranjay Krishna, Aniruddha Kembhavi, Christopher Clark <br>
 [ACL 2025](https://aclanthology.org/2025.acl-long.855.pdf)
 
+**ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding** <br>
+Muye Huang, Lingling Zhang, Jie Ma, Han Lai, Fangzhi Xu, Yifei Li, Wenjun Wu, Yaqiang Wu, Jun Liu <br>
+[NIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/119332)
+
 **ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding**   
 Zhengzhuo Xu*, Bowen Qu*, Yiyan Qi*, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo   
 [ICLR 2025](https://arxiv.org/abs/2409.03277) • [Code](https://github.com/IDEA-FinAI/ChartMoE)
@@ -180,6 +184,10 @@ Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman
 **ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering** <br>
 Jingxuan Wei, Nan Xu, Junnan Zhu, Yanni Hao, Gaowei Wu, Bihui Yu, Lei Wang <br>
 [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.226.pdf)  • [Code](https://tongli97.github.io/ChartMind/)
+
+**InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts** <br>
+Tianchi Xie, Minzhi Lin, Mengchen Liu, Yilin Ye, Changjian Chen, Shixia Liu <br>
+[NIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/121377)  • [Code](https://github.com/thu-vis/InfoChartQA)
 
 **ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models** <br>
 Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, Fangcong Yin, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, Bodun Hu, Juan Diego Rodriguez, Puyuan Peng, Greg Durrett <br>
