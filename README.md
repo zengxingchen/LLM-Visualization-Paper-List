@@ -209,6 +209,10 @@ Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo
 Zhengzhuo Xu*, Sinan Du*, Yiyan Qi, Chengjin Xu, Chun Yuan†, Jian Guo  
  [arXiv 26 Dec 2023](https://arxiv.org/pdf/2312.15915) • [Homepage](https://chartbench.github.io/)
 
+**Benchmark It Yourself (BIY): Preparing a Dataset and Benchmarking AI Models for Scatterplot-Related Tasks**
+João Palmeiro, Diogo Duarte, Rita Costa, Pedro Bizarro
+ [VISxGenAI: 1st Workshop on GenAI, Agents, and the Future of VIS (IEEE VIS 2025)](https://arxiv.org/abs/2510.06071) • [Code](https://github.com/feedzai/biy-paper)
+
 --- Pre-LLM ---  
 **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning**  
 Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque  
