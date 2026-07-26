@@ -303,6 +303,10 @@ Jorge Poco and Jeffrey Heer <br>
 
 ## 4. Natural Language to Visualization
 ### 4.0 Method, Framework, and Benchmark
+**StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs** <br>
+Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, Ziyan Jiang, Ping Nie, Wenhu Chen <br>
+[TMLR](https://openreview.net/forum?id=buDwV7LUA7) • [Code](https://github.com/TIGER-AI-Lab/StructEval) • [Homepage](https://tiger-ai-lab.github.io/StructEval/) • [Dataset](https://huggingface.co/datasets/TIGER-Lab/StructEval)
+
 **nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow** <br>
 Geliang Ouyang, Jingyao Chen, Zhihe Nie, Yi Gui, Yao Wan, Hongyu Zhang, Dongping Chen <br>
 [arXiv, 7 Feb 2025](https://arxiv.org/pdf/2502.05036)
@@ -614,4 +618,3 @@ Chen Chen, Hannah K. Bako, Peihong Yu, John Hooker, Jeffrey Joyal, Simon C. Wang
 **Multimodal Chart Retrieval: A Comparison of Text, Table and Image Based Approaches** <br>
 Averi Nowak, Francesco Piccinno, Yasemin Altun <br>
 [NAACL 2024](https://aclanthology.org/2024.naacl-long.307/)
-
