@@ -419,6 +419,10 @@ F. Yanez and C. Nobre
 [MLVis 2024](https://diglib.eg.org/server/api/core/bitstreams/23abe5fb-4de1-432f-97ab-ad757f5418e3/content)
 
 ## 6. Visualization Agents & Automatic Judge
+**DeepConnect: A Visual Analytics System for Bridging Interdisciplinary Research Collaborations** <br>
+Yingchaojie Feng, Zekai Shao, Yiqun Sun, Yixuan Tang, Anthony K. H. Tung <br>
+[IEEE VIS 2026](https://arxiv.org/abs/2608.05134) • [Homepage](https://deepconnect.sg)
+
 **C2: Scalable Auto-Feedback for LLM-based Chart Generation** <br>
 Woosung Koh, Jang Han Yoon, MinHyung Lee, Youngjin Song, Jaegwan Cho, Jaehyun Kang, Taehyeon Kim, Se-Young Yun, Youngjae Yu, Bongshin Lee <br>
 [NAACL 2025 Oral](https://arxiv.org/abs/2410.18652) • [Homepage](https://chartsquared.github.io/)
